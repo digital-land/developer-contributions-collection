@@ -1,8 +1,8 @@
-# XXX collection
+# Developer Contributions collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/XXX/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/developer-contributions-collection/blob/master/LICENSE)
 
-A collection of XXX collected from YYY.
+A collection of Developer Contributions collected from various sources.
 
 The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/ZZZ/).
 
