@@ -1,0 +1,6 @@
+row-number,field,issue-type,value
+1,document-url,uri,Leave blank or link to published S106
+1,end-date,date,Leave blank unless superseded
+1,entry-date,date,Date recording data 17/09/2019
+1,start-date,date,Demand Notice date or S106 signed date
+1,entry-date,default,2021-03-25

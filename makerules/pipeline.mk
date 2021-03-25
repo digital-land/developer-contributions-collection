@@ -25,6 +25,12 @@ ifeq ($(CACHE_DIR),)
 CACHE_DIR=var/cache/
 endif
 
+ifeq ($(HARMONISED_DIR),)
+ifneq ($(PIPELINE_FLAGS),)
+HARMONISED_DIR=harmonised/
+endif
+endif
+
 ifeq ($(TRANSFORMED_DIR),)
 TRANSFORMED_DIR=transformed/
 endif
@@ -37,14 +43,24 @@ ifeq ($(DATASET_DIR),)
 DATASET_DIR=dataset/
 endif
 
+ifeq ($(DATASET_DIRS),)
+DATASET_DIRS=\
+	$(HARMONISED_DIR)\
+	$(TRANSFORMED_DIR)\
+	$(ISSUE_DIR)\
+	$(DATASET_DIR)
+endif
+
+
 define run-pipeline =
 	mkdir -p $(@D) $(ISSUE_DIR)$(notdir $(@D))
-	digital-land --pipeline-name $(notdir $(@D)) pipeline --issue-dir $(ISSUE_DIR)$(notdir $(@D)) $(PIPELINE_FLAGS) $< $@
+	digital-land --pipeline-name $(notdir $(@D)) $(DIGITAL_LAND_FLAGS) pipeline --issue-dir $(ISSUE_DIR)$(notdir $(@D)) $(PIPELINE_FLAGS) $< $@
 endef
 
 define build-dataset =
 	mkdir -p $(@D)
-	csvstack -z $(shell python -c 'print(__import__("sys").maxsize)') --filenames -n resource $(^) < /dev/null | sed 's/^\([^\.]*\).csv,/\1,/' > $@
+	time digital-land --pipeline-name $(notdir $(basename $@)) load-entries --output-path $(basename $@).sqlite3 $(^)
+	time digital-land --pipeline-name $(notdir $(basename $@)) build-dataset $(basename $@).sqlite3 $@
 endef
 
 collection:: collection/pipeline.mk
@@ -76,5 +92,6 @@ makerules::
 	curl -qsL '$(SOURCE_URL)/makerules/main/pipeline.mk' > makerules/pipeline.mk
 
 commit-dataset::
-	git add transformed issue dataset
+	mkdir -p $(DATASET_DIRS)
+	git add $(DATASET_DIRS)
 	git diff --quiet && git diff --staged --quiet || (git commit -m "Data $(shell date +%F)"; git push origin $(BRANCH))
