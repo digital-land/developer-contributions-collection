@@ -72,16 +72,16 @@ dat-2019-0424-05-01,,,received,dac-2019-0424-05,local-authority-eng:AMB,2021-03-
 dat-2019-0744-01-01,17758,,secured,dac-2019-0744-01,local-authority-eng:AMB,2020-11-01,2019-12-19,,/developer-agreement-transaction/local-authority-eng/AMB/dat-2019-0744-01-01
 dat-2019-0744-02-01,,,secured,dac-2019-0744-02,local-authority-eng:AMB,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/AMB/dat-2019-0744-02-01
 00940/17-dt1,4950,,allocated,00940/17-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/00940-17-dt1
-01595/17-dt1,85516.33,,allocated,01595/17-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/01595-17-dt1
+01595/17-dt1,400,,spent,01595/17-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/01595-17-dt1
 02335/17-dt1,24823.75,,allocated,02335/17-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/02335-17-dt1
 02435/17-dt1,4850,,allocated,02435/17-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/02435-17-dt1
 02456/17-dt1,12397.1,,allocated,02456/17-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/02456-17-dt1
-03484/18-dt1,4031,,spent,03484/18-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/03484-18-dt1
+03484/18-dt1,25273.36,,allocated,03484/18-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/03484-18-dt1
 04044/18-dt1,4480.27,,allocated,04044/18-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/04044-18-dt1
 04044/18-dt2,9560.06,,allocated,04044/18-dc2,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/04044-18-dt2
 04748/18-dt1,5000,,allocated,04748/18-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/04748-18-dt1
 31080/88-dt1,48505,,allocated,31080/88-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/31080-88-dt1
-36153/90-dt1,5628.8,,allocated,36153/90-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/36153-90-dt1
+36153/90-dt1,811.13,,spent,36153/90-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/36153-90-dt1
 36912/92-dt1,15464.38,,allocated,36912/92-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/36912-92-dt1
 37390/90-dt1,23102.34,,allocated,37390/90-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/37390-90-dt1
 37395/90-dt1,7685.32,,spent,37395/90-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/37395-90-dt1
@@ -89,7 +89,7 @@ dat-2019-0744-02-01,,,secured,dac-2019-0744-02,local-authority-eng:AMB,2021-03-2
 45255/94-dt1,5652.75,,allocated,45255/94-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/45255-94-dt1
 47118/95-dt1,9586.99,,allocated,47118/95-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/47118-95-dt1
 47641/95-dt1,1682,,allocated,47641/95-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/47641-95-dt1
-47874/95-dt1,-180,,allocated,47874/95-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/47874-95-dt1
+47874/95-dt1,3205,,spent,47874/95-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/47874-95-dt1
 48401/96-dt1,3358.74,,spent,48401/96-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/48401-96-dt1
 48793/96-dt1,3711.5,,allocated,48793/96-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/48793-96-dt1
 48793/96-dt2,2020.8,,allocated,48793/96-dc2,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/48793-96-dt2
@@ -109,14 +109,14 @@ dat-2019-0744-02-01,,,secured,dac-2019-0744-02,local-authority-eng:AMB,2021-03-2
 55705/99-dt1,34150,,allocated,55705/99-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/55705-99-dt1
 55870/99-dt1,28438,,allocated,55870/99-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/55870-99-dt1
 57008/00-dt1,9400,,allocated,57008/00-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/57008-00-dt1
-59154/01-dt1,14326.74,,spent,59154/01-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/59154-01-dt1
-59315/01-dt1,1931.98,,allocated,59315/01-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/59315-01-dt1
+59154/01-dt1,2423.26,,allocated,59154/01-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/59154-01-dt1
+59315/01-dt1,965.99,,spent,59315/01-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/59315-01-dt1
 62817/02-dt1,2470,,allocated,62817/02-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/62817-02-dt1
 63515/02-dt1,7367.72,,allocated,63515/02-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/63515-02-dt1
 63959/03-dt1,1918.83,,spent,63959/03-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/63959-03-dt1
 63993/03-dt1,8289.13,,allocated,63993/03-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/63993-03-dt1
 64023/03-dt1,25275,,allocated,64023/03-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/64023-03-dt1
-65785/03-dt1,46552.85,,allocated,65785/03-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/65785-03-dt1
+65785/03-dt1,10467.93,,spent,65785/03-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/65785-03-dt1
 66201/03-dt1,49000,,allocated,66201/03-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/66201-03-dt1
 67274/04-dt1,812.88,,allocated,67274/04-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/67274-04-dt1
 67335/04-dt1,60255.8,,allocated,67335/04-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/67335-04-dt1
@@ -160,7 +160,7 @@ dat-2019-0744-02-01,,,secured,dac-2019-0744-02,local-authority-eng:AMB,2021-03-2
 87062/11-dt1,19304.01,,allocated,87062/11-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/87062-11-dt1
 88121/12-dt1,18051.37,,allocated,88121/12-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/88121-12-dt1
 90539/13-dt1,361381.1,,allocated,90539/13-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/90539-13-dt1
-91081/13-dt1,330.38,,spent,91081/13-dc4,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/91081-13-dt1
+91081/13-dt1,2286.9,,allocated,91081/13-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/91081-13-dt1
 91959/14-dt1,21913.6,,allocated,91959/14-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/91959-14-dt1
 92078/14-dt1,53045.26,,allocated,92078/14-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/92078-14-dt1
 93070/14-dt1,23266.93,,allocated,93070/14-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/93070-14-dt1
@@ -169,7 +169,7 @@ dat-2019-0744-02-01,,,secured,dac-2019-0744-02,local-authority-eng:AMB,2021-03-2
 93610/15-dt3,147.36,,spent,93610/15-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/93610-15-dt3
 93610/15-dt4,863.53,,spent,93610/15-dc2,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/93610-15-dt4
 93831/15-dt1,24745,,allocated,93831/15-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/93831-15-dt1
-94158/15-dt1,2.44,,spent,94158/15-dc3,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/94158-15-dt1
+94158/15-dt1,30.66,,spent,94158/15-dc2,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/94158-15-dt1
 94656/15-dt1,215549.48,,allocated,94656/15-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/94656-15-dt1
 95151/15-dt1,9400,,allocated,95151/15-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/95151-15-dt1
 95486/15-dt1,5000,,allocated,95486/15-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/95486-15-dt1
@@ -178,7 +178,7 @@ dat-2019-0744-02-01,,,secured,dac-2019-0744-02,local-authority-eng:AMB,2021-03-2
 96218/16-dt2,14830.24,,allocated,96218/16-dc2,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/96218-16-dt2
 96218/16-dt3,16874.79,,spent,96218/16-dc3,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/96218-16-dt3
 96670/16-dt1,24638.44,,allocated,96670/16-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/96670-16-dt1
-96907/16-dt1,161874.36,,allocated,96907/16-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/96907-16-dt1
+96907/16-dt1,2140.15,,spent,96907/16-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/96907-16-dt1
 97199/16-dt1,38995.82,,allocated,97199/16-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/97199-16-dt1
 97377/16-dt1,13579.93,,allocated,97377/16-dc1,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/97377-16-dt1
 97377/16-dt2,4303.03,,allocated,97377/16-dc2,local-authority-eng:BOL,2020-03-31,2020-03-31,,/developer-agreement-transaction/local-authority-eng/BOL/97377-16-dt2
@@ -277,18 +277,18 @@ Tran_80,288,,spent,07/13/0631/F-da,local-authority-eng:BRX,2020-11-23,2014-02-10
 Tran_81,40000,,spent,7/0497/05/O/WX-da,local-authority-eng:BRX,2020-11-23,2006-06-09,,/developer-agreement-transaction/local-authority-eng/BRX/Tran-81
 Tran_82,979738,,spent,7/0078/05/F/WX-da,local-authority-eng:BRX,2020-11-23,2006-06-09,,/developer-agreement-transaction/local-authority-eng/BRX/Tran-82
 Tran_9,365508,,received,07/13/0158/O-da,local-authority-eng:BRX,2020-11-23,2015-09-08,,/developer-agreement-transaction/local-authority-eng/BRX/Tran-9
-P/13/1826/2-dat,2139.87,,,P/13/1826/2-dac,local-authority-eng:CHA,2020-11-04,2019-02-27,2019-07-29,/developer-agreement-transaction/local-authority-eng/CHA/P-13-1826-2-dat
-P/15/0047/2-dat,556233.67,,,P/15/0047/2-dac,local-authority-eng:CHA,2020-11-04,2018-05-02,,/developer-agreement-transaction/local-authority-eng/CHA/P-15-0047-2-dat
+P/13/1826/2-dat,21732,,,P/13/1826/2-dac,local-authority-eng:CHA,2020-11-04,2019-02-27,2019-07-29,/developer-agreement-transaction/local-authority-eng/CHA/P-13-1826-2-dat
+P/15/0047/2-dat,121423.68,,,P/15/0047/2-dac,local-authority-eng:CHA,2020-11-04,2018-05-02,,/developer-agreement-transaction/local-authority-eng/CHA/P-15-0047-2-dat
 P/17/0388/2-dat,23328.77,,,P/17/0388/2-dac,local-authority-eng:CHA,2020-11-04,2019-11-29,,/developer-agreement-transaction/local-authority-eng/CHA/P-17-0388-2-dat
 P/17/2200/2-dat,5682.5,,,P/17/2200/2-dac,local-authority-eng:CHA,2020-11-04,2018-10-26,2019-12-23,/developer-agreement-transaction/local-authority-eng/CHA/P-17-2200-2-dat
-P/17/2338/2-dat,62425,,,P/17/2338/2-dac,local-authority-eng:CHA,2020-11-04,2019-01-14,,/developer-agreement-transaction/local-authority-eng/CHA/P-17-2338-2-dat
-P/17/2391/2-dat,250,,,P/17/2391/2-dac,local-authority-eng:CHA,2020-11-04,2019-11-29,,/developer-agreement-transaction/local-authority-eng/CHA/P-17-2391-2-dat
-P/18/0284/2-dat,7000,,,P/18/0284/2-dac,local-authority-eng:CHA,2020-11-04,2019-05-15,2019-07-15,/developer-agreement-transaction/local-authority-eng/CHA/P-18-0284-2-dat
+P/17/2338/2-dat,154555.2,,,P/17/2338/2-dac,local-authority-eng:CHA,2020-11-04,2019-01-14,,/developer-agreement-transaction/local-authority-eng/CHA/P-17-2338-2-dat
+P/17/2391/2-dat,14455.2,,,P/17/2391/2-dac,local-authority-eng:CHA,2020-11-04,2019-11-29,,/developer-agreement-transaction/local-authority-eng/CHA/P-17-2391-2-dat
+P/18/0284/2-dat,23737,,,P/18/0284/2-dac,local-authority-eng:CHA,2020-11-04,2019-05-15,2019-07-15,/developer-agreement-transaction/local-authority-eng/CHA/P-18-0284-2-dat
 P/18/0662/2-dat,0,,,P/18/0662/2-dac,local-authority-eng:CHA,2021-03-25,2019-06-11,,/developer-agreement-transaction/local-authority-eng/CHA/P-18-0662-2-dat
-P/18/0888/2-dat,2843.3,,,P/18/0888/2-dac,local-authority-eng:CHA,2020-11-04,2019-06-11,,/developer-agreement-transaction/local-authority-eng/CHA/P-18-0888-2-dat
-P/18/0985/2-dat,1705,,,P/18/0985/2-dac,local-authority-eng:CHA,2020-11-04,2019-12-03,,/developer-agreement-transaction/local-authority-eng/CHA/P-18-0985-2-dat
+P/18/0888/2-dat,22502.79,,,P/18/0888/2-dac,local-authority-eng:CHA,2020-11-04,2019-06-11,,/developer-agreement-transaction/local-authority-eng/CHA/P-18-0888-2-dat
+P/18/0985/2-dat,300,,,P/18/0985/2-dac,local-authority-eng:CHA,2020-11-04,2019-06-11,,/developer-agreement-transaction/local-authority-eng/CHA/P-18-0985-2-dat
 P/18/2058/2-dat,20000,,,P/18/2058/2-dac,local-authority-eng:CHA,2020-11-04,2019-12-03,2020-11-02,/developer-agreement-transaction/local-authority-eng/CHA/P-18-2058-2-dat
-P/18/2067/2-dat,10000,,,P/18/2067/2-dac,local-authority-eng:CHA,2020-11-04,2019-03-27,,/developer-agreement-transaction/local-authority-eng/CHA/P-18-2067-2-dat
+P/18/2067/2-dat,7500,,,P/18/2067/2-dac,local-authority-eng:CHA,2020-11-04,2019-03-27,,/developer-agreement-transaction/local-authority-eng/CHA/P-18-2067-2-dat
 P/19/0394/2-dat,80369,,,P/19/0394/2-dac,local-authority-eng:CHA,2020-11-04,2019-12-06,,/developer-agreement-transaction/local-authority-eng/CHA/P-19-0394-2-dat
 P/19/0687/2-dat,6000,,,P/19/0687/2-dac,local-authority-eng:CHA,2020-11-04,2019-08-20,2019-08-28,/developer-agreement-transaction/local-authority-eng/CHA/P-19-0687-2-dat
 CIL00009-LP00017_59,10892.8,,secured,19/00077/FUL_CIL_59,local-authority-eng:CHT,2020-04-06,2019-06-24,,/developer-agreement-transaction/local-authority-eng/CHT/CIL00009-LP00017-59
@@ -483,7 +483,7 @@ SPENT: the received money has been spent on the purpose specified in the section
 3_17_1222_VAR-c2 -T1,2879,,RECEIVED: the developer has paid all or part of the money due to the local planning authority,,local-authority-eng:EHE,2021-03-25,2019-04-10,,/developer-agreement-transaction/local-authority-eng/EHE/3-17-1222-VAR-c2--T1
 3_17_1222_VAR-c3-T1,8071.44,,RECEIVED: the developer has paid all or part of the money due to the local planning authority,,local-authority-eng:EHE,2021-03-25,2019-04-10,,/developer-agreement-transaction/local-authority-eng/EHE/3-17-1222-VAR-c3-T1
 3_17_1222_VAR-c4-T1,17942.47,,RECEIVED: the developer has paid all or part of the money due to the local planning authority,,local-authority-eng:EHE,2021-03-25,2019-04-10,,/developer-agreement-transaction/local-authority-eng/EHE/3-17-1222-VAR-c4-T1
-3_17_1222_VAR-c5-T1,936,,SPENT: the received money has been spent on the purpose specified in the section 106 or 278 agreement,,local-authority-eng:EHE,2021-03-25,2019-04-10,,/developer-agreement-transaction/local-authority-eng/EHE/3-17-1222-VAR-c5-T1
+3_17_1222_VAR-c5-T1,3100,,"ALLOCATED: the received money has been allocated to a team within the local planning authority, who will spend the money",,local-authority-eng:EHE,2021-03-25,2019-04-10,,/developer-agreement-transaction/local-authority-eng/EHE/3-17-1222-VAR-c5-T1
 3_18_0031_FUL-c1-T1,,12,"SECURED: the trigger clauses associated with the contribution have been met, meaning the developer is now required to pay all or part of the contribution",,local-authority-eng:EHE,2021-03-25,2019-07-16,,/developer-agreement-transaction/local-authority-eng/EHE/3-18-0031-FUL-c1-T1
 3_18_0031_FUL-c2-T1,27270,,"SECURED: the trigger clauses associated with the contribution have been met, meaning the developer is now required to pay all or part of the contribution",,local-authority-eng:EHE,2021-03-25,2019-07-16,,/developer-agreement-transaction/local-authority-eng/EHE/3-18-0031-FUL-c2-T1
 3_18_0031_FUL-c3-T1,18630,,"SECURED: the trigger clauses associated with the contribution have been met, meaning the developer is now required to pay all or part of the contribution",,local-authority-eng:EHE,2021-03-25,2019-07-16,,/developer-agreement-transaction/local-authority-eng/EHE/3-18-0031-FUL-c3-T1
@@ -559,7 +559,7 @@ SPENT: the received money has been spent on the purpose specified in the section
 17/01419/CILADMIN2,3060.46,,received,17/01419/CILADMIN,local-authority-eng:EPS,2019-12-20,2019-12-20,,/developer-agreement-transaction/local-authority-eng/EPS/17-01419-CILADMIN2
 17/01419/CILADMIN3,1418.26,,received,17/01419/CILADMIN,local-authority-eng:EPS,2019-12-20,2019-12-20,,/developer-agreement-transaction/local-authority-eng/EPS/17-01419-CILADMIN3
 17/01419/IDP1,48967.38,,received,17/01419/IDP,local-authority-eng:EPS,2019-12-20,2019-12-20,,/developer-agreement-transaction/local-authority-eng/EPS/17-01419-IDP1
-17/01419/NEIGHBOURHOOD1,9181.39,,received,17/01419/NEIGHBOURHOOD,local-authority-eng:EPS,2019-12-20,2019-12-20,,/developer-agreement-transaction/local-authority-eng/EPS/17-01419-NEIGHBOURHOOD1
+17/01419/NEIGHBOURHOOD1,4254.79,,received,17/01419/NEIGHBOURHOOD,local-authority-eng:EPS,2019-12-20,2019-12-20,,/developer-agreement-transaction/local-authority-eng/EPS/17-01419-NEIGHBOURHOOD1
 17/01586/S1061,,,,17/01586/S106,local-authority-eng:EPS,2019-10-30,,,/developer-agreement-transaction/local-authority-eng/EPS/17-01586-S1061
 17/01586/S1062,,,,17/01586/S106,local-authority-eng:EPS,2019-10-30,,,/developer-agreement-transaction/local-authority-eng/EPS/17-01586-S1062
 17/01760/S1061,,,,17/01760/S106,local-authority-eng:EPS,2019-10-30,,,/developer-agreement-transaction/local-authority-eng/EPS/17-01760-S1061
@@ -727,9 +727,9 @@ Affordable Housing_P/2011/00546/CEH/PO,31666.82,0,transferred,P/2011/00546/CEH/P
 Affordable Housing_P/2011/01359/CLF/PO,543544.36,0,transferred,P/2011/01359/CLF/PO-da,local-authority-eng:EST,2020-05-28,2019-10-08,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2011-01359-CLF-PO
 Affordable Housing_P/2012/00636,535226,0,received,P/2012/00636-da,local-authority-eng:EST,2020-05-28,2020-02-20,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2012-00636
 Affordable Housing_P/2012/00795,26587,0,received,P/2012/00795-da,local-authority-eng:EST,2020-05-28,2019-06-17,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2012-00795
-Affordable Housing_P/2012/01215,0,7,secured,P/2012/01215-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2012-01215
+Affordable Housing_P/2012/01215,0,9,received,P/2012/01215-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2012-01215
 Affordable Housing_P/2012/01359,0,8,received,P/2012/01359-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2012-01359
-Affordable Housing_P/2013/00406,0,4,received,P/2013/00406-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2013-00406
+Affordable Housing_P/2013/00406,95910.93,0,transferred,P/2013/00406-da,local-authority-eng:EST,2020-05-28,2019-10-08,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2013-00406
 Affordable Housing_P/2013/00432,1040000,47,secured,P/2013/00432-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2013-00432
 Affordable Housing_P/2013/00882,0,7,received,P/2013/00882-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2013-00882
 Affordable Housing_P/2014/00548,356000,7,secured,P/2014/00548-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2014-00548
@@ -744,7 +744,7 @@ Affordable Housing_P/2017/01110,0,8,received,P/2017/01110-da,local-authority-eng
 Affordable Housing_P/2017/01652,0,4,received,P/2017/01652-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2017-01652
 Affordable Housing_P/2018/00505,3000,0,secured,P/2018/00505-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2018-00505
 Affordable Housing_P/2018/00939,0,24,secured,P/2018/00939-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2018-00939
-Affordable Housing_P/2018/01046,16000,0,received,P/2018/01046-da,local-authority-eng:EST,2020-05-28,2019-06-19,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2018-01046
+Affordable Housing_P/2018/01046,0,6,secured,P/2018/01046-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2018-01046
 Affordable Housing_P/2019/00703,0,39,secured,P/2019/00703-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Affordable-Housing-P-2019-00703
 Bus Service_P/2012/01215,0,1,secured,P/2012/01215-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Bus-Service-P-2012-01215
 Bus Service_P/2012/01359,0,1,secured,P/2012/01359-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Bus-Service-P-2012-01359
@@ -772,7 +772,7 @@ POS_P/2014/00039,28400,0,secured,P/2014/00039-da,local-authority-eng:EST,2020-05
 POS_P/2015/01588,10000,0,transferred,P/2015/01588-da,local-authority-eng:EST,2020-05-28,2019-06-13,,/developer-agreement-transaction/local-authority-eng/EST/POS-P-2015-01588
 POS_PA/24048/023/PO,24363.18,0,allocated,PA/24048/023/PO-da,local-authority-eng:EST,2020-05-28,2019-04-01,,/developer-agreement-transaction/local-authority-eng/EST/POS-PA-24048-023-PO
 Sports & Leisure_P/2012/00636,171841,0,received,P/2012/00636-da,local-authority-eng:EST,2020-05-28,2020-02-20,,/developer-agreement-transaction/local-authority-eng/EST/Sports---Leisure-P-2012-00636
-Sports & Leisure_P/2012/01467,2100,0,transferred,P/2012/01467-da,local-authority-eng:EST,2020-05-28,2019-06-24,,/developer-agreement-transaction/local-authority-eng/EST/Sports---Leisure-P-2012-01467
+Sports & Leisure_P/2012/01467,52750,0,secured,P/2012/01467-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Sports---Leisure-P-2012-01467
 Sports & Leisure_P/2013/00432,40000,0,secured,P/2013/00432-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Sports---Leisure-P-2013-00432
 Sports & Leisure_P/2013/01287,5275,0,received,P/2013/01287-da,local-authority-eng:EST,2020-05-28,2019-06-13,,/developer-agreement-transaction/local-authority-eng/EST/Sports---Leisure-P-2013-01287
 Sports & Leisure_P/2014/00548,46766,0,secured,P/2014/00548-da,local-authority-eng:EST,2020-05-28,2020-03-31,,/developer-agreement-transaction/local-authority-eng/EST/Sports---Leisure-P-2014-00548
@@ -786,10 +786,10 @@ Waste_P/2014/01304,6225,0,secured,P/2014/01304-da,local-authority-eng:EST,2020-0
 Waste_P/2016/01847,15787,0,received,P/2016/01847-da,local-authority-eng:EST,2020-05-28,2020-02-18,,/developer-agreement-transaction/local-authority-eng/EST/Waste-P-2016-01847
 Waste_P/2017/00555,1382,0,received,P/2017/00555-da,local-authority-eng:EST,2020-05-28,2020-02-14,,/developer-agreement-transaction/local-authority-eng/EST/Waste-P-2017-00555
 Waste_P/2017/01110,4125,0,received,P/2017/01110-da,local-authority-eng:EST,2020-05-28,2019-09-17,,/developer-agreement-transaction/local-authority-eng/EST/Waste-P-2017-01110
-CIL00135-LP00457_59,342597.6,,secured,18/00306/FUL_CIL_59,local-authority-eng:GLO,2020-04-06,2020-04-27,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00135-LP00457-59
+CIL00135-LP00457_59,38066.4,,received,18/00306/FUL_CIL_59,local-authority-eng:GLO,2020-04-06,2019-12-20,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00135-LP00457-59
 CIL00135-LP00457_59A,7137.45,,received,18/00306/FUL_CIL_59A,local-authority-eng:GLO,2020-04-06,2019-12-20,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00135-LP00457-59A
-CIL00135-LP00457_61,2379.15,,received,18/00306/FUL_CIL_61,local-authority-eng:GLO,2020-04-06,2019-12-20,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00135-LP00457-61
-CIL00136-LP00322_59A,8695.32,,secured,18/01395/FUL_CIL_59A,local-authority-eng:GLO,2020-04-06,2019-08-08,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00136-LP00322-59A
+CIL00135-LP00457_61,21412.35,,secured,18/00306/FUL_CIL_61,local-authority-eng:GLO,2020-04-06,2020-04-27,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00135-LP00457-61
+CIL00136-LP00322_59A,46375.04,,secured,18/01395/FUL_CIL_59,local-authority-eng:GLO,2020-04-06,2019-08-08,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00136-LP00322-59A
 CIL00136-LP00322_61,2898.44,,secured,18/01395/FUL_CIL_61,local-authority-eng:GLO,2020-04-06,2019-08-08,,/developer-agreement-transaction/local-authority-eng/GLO/CIL00136-LP00322-61
 LP00457_DN72,406562.56,,received,18/00306/FUL_S106_OSL,local-authority-eng:GLO,2020-04-06,2019-11-08,,/developer-agreement-transaction/local-authority-eng/GLO/LP00457-DN72
 LP00457_DN73,37196.1,,received,18/00306/FUL_S106_OSL,local-authority-eng:GLO,2020-04-06,2019-11-08,,/developer-agreement-transaction/local-authority-eng/GLO/LP00457-DN73
@@ -1164,19 +1164,19 @@ APP/V5570/C/18/3199860-COCSS,7000,0,spent,APP/V5570/C/18/3199860-COCSS,local-aut
 MC15/1958B/6542/1-admin,2261.31,0,secured,MC15/1958B/6542/1-admin,local-authority-eng:ISL,2020-06-19,2020-03-27,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-1958B-6542-1-admin
 MC15/1958B/6542/1-mcil,64271.54,0,secured,MC15/1958B/6542/1-mcil,local-authority-eng:ISL,2020-06-19,2020-03-27,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-1958B-6542-1-mcil
 MC15/1958B/6542/1-ncil,272975.76,0,secured,MC15/1958B/6542/1-ncil,local-authority-eng:ISL,2020-06-19,2020-03-27,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-1958B-6542-1-ncil
-MC15/3543K/9194/1-admin,540.22,0,received,MC15/3543K/9194/1-admin,local-authority-eng:ISL,2020-06-19,2019-05-31,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-3543K-9194-1-admin
+MC15/3543K/9194/1-admin,92.63,0,received,MC15/3543K/9194/1-admin,local-authority-eng:ISL,2020-06-19,2019-05-31,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-3543K-9194-1-admin
 MC15/3543K/9194/1-mcil,2223.29,0,received,MC15/3543K/9194/1-mcil,local-authority-eng:ISL,2020-06-19,2019-05-31,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-3543K-9194-1-mcil
 MC15/3543K/9194/1-ncil,10264.17,0,received,MC15/3543K/9194/1-ncil,local-authority-eng:ISL,2020-06-19,2019-05-31,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-3543K-9194-1-ncil
-MC15/4162N/4728/1-admin,64.57,0,secured,MC15/4162N/4728/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-09,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-4162N-4728-1-admin
+MC15/4162N/4728/1-admin,376.57,0,received,MC15/4162N/4728/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-09,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-4162N-4728-1-admin
 MC15/4162N/4728/1-mcil,1549.78,0,secured,MC15/4162N/4728/1-mcil,local-authority-eng:ISL,2020-06-19,2019-08-09,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-4162N-4728-1-mcil
 MC15/4162N/4728/1-ncil,7154.81,0,received,MC15/4162N/4728/1-ncil,local-authority-eng:ISL,2020-06-19,2019-08-09,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-4162N-4728-1-ncil
 MC15/5283M/4821/1-admin,1521.34,0,received,MC15/5283M/4821/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-09,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-5283M-4821-1-admin
 MC15/5283M/4821/1-mcil,6261.1,0,received,MC15/5283M/4821/1-mcil,local-authority-eng:ISL,2020-06-19,2019-08-09,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-5283M-4821-1-mcil
 MC15/5283M/4821/1-ncil,28905.44,0,received,MC15/5283M/4821/1-ncil,local-authority-eng:ISL,2020-06-19,2019-08-09,,/developer-agreement-transaction/local-authority-eng/ISL/MC15-5283M-4821-1-ncil
-MC16/0455Q/8753/1-admin,190.88,0,received,MC16/0455Q/8753/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-29,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0455Q-8753-1-admin
+MC16/0455Q/8753/1-admin,1113.18,0,received,MC16/0455Q/8753/1-admin,local-authority-eng:ISL,2020-06-19,2019-04-10,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0455Q-8753-1-admin
 MC16/0455Q/8753/1-mcil,4581.32,0,received,MC16/0455Q/8753/1-mcil,local-authority-eng:ISL,2020-06-19,2019-04-10,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0455Q-8753-1-mcil
 MC16/0455Q/8753/1-ncil,21150.42,0,received,MC16/0455Q/8753/1-ncil,local-authority-eng:ISL,2020-06-19,2019-04-10,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0455Q-8753-1-ncil
-MC16/0691G/0625/1-admin,749.17,0,received,MC16/0691G/0625/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-16,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0691G-0625-1-admin
+MC16/0691G/0625/1-admin,1398.03,0,received,MC16/0691G/0625/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-16,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0691G-0625-1-admin
 MC16/0691G/0625/1-mcil,17980.11,0,received,MC16/0691G/0625/1-mcil,local-authority-eng:ISL,2020-06-19,2019-08-16,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0691G-0625-1-mcil
 MC16/0691G/0625/1-ncil,26562.66,0,received,MC16/0691G/0625/1-ncil,local-authority-eng:ISL,2020-06-19,2019-08-16,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-0691G-0625-1-ncil
 MC16/2350A/4026/1-admin,792.42,0,received,MC16/2350A/4026/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-2350A-4026-1-admin
@@ -1192,7 +1192,7 @@ MC16/3207B/4423/1-mcil,24310.17,0,received,MC16/3207B/4423/1-mcil,local-authorit
 MC16/3207B/4423/1-ncil,35914.29,0,received,MC16/3207B/4423/1-ncil,local-authority-eng:ISL,2020-06-19,2019-09-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-3207B-4423-1-ncil
 MC16/350A/4026/1-admin,424.63,0,received,MC16/350A/4026/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-350A-4026-1-admin
 MC16/350A/4026/1-mcil,10191.33,0,received,MC16/350A/4026/1-mcil,local-authority-eng:ISL,2020-06-19,2019-08-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-350A-4026-1-mcil
-MC16/4928R/9833/1-admin,141.17,0,received,MC16/4928R/9833/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-4928R-9833-1-admin
+MC16/4928R/9833/1-admin,823.27,0,received,MC16/4928R/9833/1-admin,local-authority-eng:ISL,2020-06-19,2019-08-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-4928R-9833-1-admin
 MC16/4928R/9833/1-mcil,3388.2,0,received,MC16/4928R/9833/1-mcil,local-authority-eng:ISL,2020-06-19,2019-08-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-4928R-9833-1-mcil
 MC16/4928R/9833/1-ncil,15642.21,0,received,MC16/4928R/9833/1-ncil,local-authority-eng:ISL,2020-06-19,2019-08-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC16-4928R-9833-1-ncil
 MC17/0297C/8913/1-admin,14971.47,0,received,MC17/0297C/8913/1-admin,local-authority-eng:ISL,2020-06-19,2019-11-07,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0297C-8913-1-admin
@@ -1201,7 +1201,7 @@ MC17/0297C/8913/1-ncil,284457.87,0,received,MC17/0297C/8913/1-ncil,local-authori
 MC17/0297C/8913/2-admin,8963.21,0,secured,MC17/0297C/8913/2-admin,local-authority-eng:ISL,2020-06-19,2019-11-07,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0297C-8913-2-admin
 MC17/0297C/8913/2-mcil,115275.74,0,secured,MC17/0297C/8913/2-mcil,local-authority-eng:ISL,2020-06-19,2019-11-07,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0297C-8913-2-mcil
 MC17/0297C/8913/2-ncil,170301.01,0,secured,MC17/0297C/8913/2-ncil,local-authority-eng:ISL,2020-06-19,2019-11-07,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0297C-8913-2-ncil
-MC17/0556B/0711/1-admin,167.89,0,received,MC17/0556B/0711/1-admin,local-authority-eng:ISL,2020-06-19,2019-11-06,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0556B-0711-1-admin
+MC17/0556B/0711/1-admin,979.08,0,received,MC17/0556B/0711/1-admin,local-authority-eng:ISL,2020-06-19,2019-11-06,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0556B-0711-1-admin
 MC17/0556B/0711/1-mcil,4029.42,0,received,MC17/0556B/0711/1-mcil,local-authority-eng:ISL,2020-06-19,2019-11-06,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0556B-0711-1-mcil
 MC17/0556B/0711/1-ncil,18602.51,0,received,MC17/0556B/0711/1-ncil,local-authority-eng:ISL,2020-06-19,2019-11-06,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0556B-0711-1-ncil
 MC17/0724A/0765/1-admin,2221.34,0,received,MC17/0724A/0765/1-admin,local-authority-eng:ISL,2020-06-19,2020-02-04,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-0724A-0765-1-admin
@@ -1210,7 +1210,7 @@ MC17/0724A/0765/1-ncil,172287.87,0,received,MC17/0724A/0765/1-ncil,local-authori
 MC17/1889N/0128/1-admin,3107.49,0,secured,MC17/1889N/0128/1-admin,local-authority-eng:ISL,2020-06-19,2019-11-08,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-1889N-0128-1-admin
 MC17/1889N/0128/1-mcil,34473.37,0,secured,MC17/1889N/0128/1-mcil,local-authority-eng:ISL,2020-06-19,2019-11-08,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-1889N-0128-1-mcil
 MC17/1889N/0128/1-ncil,59042.22,0,secured,MC17/1889N/0128/1-ncil,local-authority-eng:ISL,2020-06-19,2019-11-08,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-1889N-0128-1-ncil
-MC17/2787Q/4971/1-admin,230.4,0,received,MC17/2787Q/4971/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-2787Q-4971-1-admin
+MC17/2787Q/4971/1-admin,1197.49,0,received,MC17/2787Q/4971/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-2787Q-4971-1-admin
 MC17/2787Q/4971/1-mcil,5529.6,0,received,MC17/2787Q/4971/1-mcil,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-2787Q-4971-1-mcil
 MC17/2787Q/4971/1-ncil,22752.3,0,received,MC17/2787Q/4971/1-ncil,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-2787Q-4971-1-ncil
 MC17/2961A/0764/1-admin,808.46,0,secured,MC17/2961A/0764/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-29,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-2961A-0764-1-admin
@@ -1225,37 +1225,37 @@ MC17/3103A/8924/1-ncil,1514729.33,0,received,MC17/3103A/8924/1-ncil,local-author
 MC17/3103A/8924/2-admin,41784.74,0,received,MC17/3103A/8924/2-admin,local-authority-eng:ISL,2020-06-19,2019-04-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3103A-8924-2-admin
 MC17/3103A/8924/2-mcil,1002833.81,0,received,MC17/3103A/8924/2-mcil,local-authority-eng:ISL,2020-06-19,2019-04-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3103A-8924-2-mcil
 MC17/3103A/8924/2-ncil,1514729.33,0,received,MC17/3103A/8924/2-ncil,local-authority-eng:ISL,2020-06-19,2019-04-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3103A-8924-2-ncil
-MC17/3103A/8924/3-admin,82138.43,0,secured,MC17/3103A/8924/3-admin,local-authority-eng:ISL,2020-06-19,2019-04-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3103A-8924-3-admin
+MC17/3103A/8924/3-admin,43050.94,0,secured,MC17/3103A/8924/3-admin,local-authority-eng:ISL,2020-06-19,2019-04-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3103A-8924-3-admin
 MC17/3103A/8924/3-mcil,1033222.72,0,secured,MC17/3103A/8924/3-mcil,local-authority-eng:ISL,2020-06-19,2019-04-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3103A-8924-3-mcil
 MC17/3103A/8924/3-ncil,1560630.21,0,secured,MC17/3103A/8924/3-ncil,local-authority-eng:ISL,2020-06-19,2019-04-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3103A-8924-3-ncil
 MC17/3429N/9739/1-admin,40940.71,0,received,MC17/3429N/9739/1-admin,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-1-admin
 MC17/3429N/9739/1-mcil,173938.42,0,received,MC17/3429N/9739/1-mcil,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-1-mcil
 MC17/3429N/9739/1-ncil,777873.44,0,received,MC17/3429N/9739/1-ncil,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-1-ncil
-MC17/3429N/9739/2-admin,40940.71,0,received,MC17/3429N/9739/2-admin,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-2-admin
+MC17/3429N/9739/2-admin,7247.43,0,received,MC17/3429N/9739/2-admin,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-2-admin
 MC17/3429N/9739/2-mcil,173938.42,0,received,MC17/3429N/9739/2-mcil,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-2-mcil
 MC17/3429N/9739/2-ncil,777873.44,0,received,MC17/3429N/9739/2-ncil,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-2-ncil
 MC17/3429N/9739/3-admin,29526.36,0,secured,MC17/3429N/9739/3-admin,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-3-admin
 MC17/3429N/9739/3-mcil,125444.07,0,secured,MC17/3429N/9739/3-mcil,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-3-mcil
 MC17/3429N/9739/3-ncil,561000.82,0,secured,MC17/3429N/9739/3-ncil,local-authority-eng:ISL,2020-06-19,2019-04-01,,/developer-agreement-transaction/local-authority-eng/ISL/MC17-3429N-9739-3-ncil
-MC18/0523A/0107/1-admin,14971.47,0,received,MC18/0523A/0107/1-admin,local-authority-eng:ISL,2020-06-19,2019-06-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-0523A-0107-1-admin
+MC18/0523A/0107/1-admin,8022.82,0,secured,MC18/0523A/0107/1-admin,local-authority-eng:ISL,2020-06-19,2019-06-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-0523A-0107-1-admin
 MC18/0523A/0107/1-mcil,192547.84,0,secured,MC18/0523A/0107/1-mcil,local-authority-eng:ISL,2020-06-19,2019-06-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-0523A-0107-1-mcil
 MC18/0523A/0107/1-ncil,284457.87,0,received,MC18/0523A/0107/1-ncil,local-authority-eng:ISL,2020-06-19,2019-06-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-0523A-0107-1-ncil
 MC18/0523A/0107/2-admin,1097.92,0,secured,MC18/0523A/0107/2-admin,local-authority-eng:ISL,2020-06-19,2019-06-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-0523A-0107-2-admin
 MC18/0523A/0107/2-mcil,26350.25,0,secured,MC18/0523A/0107/2-mcil,local-authority-eng:ISL,2020-06-19,2019-06-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-0523A-0107-2-mcil
 MC18/0523A/0107/2-ncil,38947.17,0,received,MC18/0523A/0107/2-ncil,local-authority-eng:ISL,2020-06-19,2019-06-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-0523A-0107-2-ncil
-MC18/1322B/4710/1-admin,2383.81,0,received,MC18/1322B/4710/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1322B-4710-1-admin
+MC18/1322B/4710/1-admin,16681.71,0,received,MC18/1322B/4710/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1322B-4710-1-admin
 MC18/1322B/4710/1-mcil,57211.53,0,received,MC18/1322B/4710/1-mcil,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1322B-4710-1-mcil
 MC18/1322B/4710/1-ncil,316952.43,0,received,MC18/1322B/4710/1-ncil,local-authority-eng:ISL,2020-06-19,2020-01-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1322B-4710-1-ncil
-MC18/1578A/0672/1-admin,6593.86,0,received,MC18/1578A/0672/1-admin,local-authority-eng:ISL,2020-06-19,2019-10-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1578A-0672-1-admin
+MC18/1578A/0672/1-admin,12304.87,0,received,MC18/1578A/0672/1-admin,local-authority-eng:ISL,2020-06-19,2019-10-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1578A-0672-1-admin
 MC18/1578A/0672/1-mcil,158252.78,0,received,MC18/1578A/0672/1-mcil,local-authority-eng:ISL,2020-06-19,2019-10-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1578A-0672-1-mcil
 MC18/1578A/0672/1-ncil,233792.54,0,received,MC18/1578A/0672/1-ncil,local-authority-eng:ISL,2020-06-19,2019-10-24,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1578A-0672-1-ncil
 MC18/1671B/0320/1-admin,1128.3,0,received,MC18/1671B/0320/1-admin,local-authority-eng:ISL,2020-06-19,2019-12-17,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1671B-0320-1-admin
 MC18/1671B/0320/1-mcil,37651.2,0,received,MC18/1671B/0320/1-mcil,local-authority-eng:ISL,2020-06-19,2019-12-17,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1671B-0320-1-mcil
 MC18/1671B/0320/1-ncil,21437.73,0,received,MC18/1671B/0320/1-ncil,local-authority-eng:ISL,2020-06-19,2019-12-17,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-1671B-0320-1-ncil
-MC18/3887N/0730/1-admin,831.59,0,secured,MC18/3887N/0730/1-admin,local-authority-eng:ISL,2020-06-19,2019-12-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-3887N-0730-1-admin
+MC18/3887N/0730/1-admin,142.6,0,secured,MC18/3887N/0730/1-admin,local-authority-eng:ISL,2020-06-19,2019-12-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-3887N-0730-1-admin
 MC18/3887N/0730/1-mcil,3422.42,0,secured,MC18/3887N/0730/1-mcil,local-authority-eng:ISL,2020-06-19,2019-12-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-3887N-0730-1-mcil
 MC18/3887N/0730/1-ncil,15800.21,0,secured,MC18/3887N/0730/1-ncil,local-authority-eng:ISL,2020-06-19,2019-12-02,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-3887N-0730-1-ncil
-MC18/4232H/0476/1-admin,46.4,0,received,MC18/4232H/0476/1-admin,local-authority-eng:ISL,2020-06-19,2019-10-11,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-4232H-0476-1-admin
+MC18/4232H/0476/1-admin,241.16,0,received,MC18/4232H/0476/1-admin,local-authority-eng:ISL,2020-06-19,2019-10-11,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-4232H-0476-1-admin
 MC18/4232H/0476/1-mcil,1113.6,0,received,MC18/4232H/0476/1-mcil,local-authority-eng:ISL,2020-06-19,2019-10-11,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-4232H-0476-1-mcil
 MC18/4232H/0476/1-ncil,4582.06,0,received,MC18/4232H/0476/1-ncil,local-authority-eng:ISL,2020-06-19,2019-10-11,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-4232H-0476-1-ncil
 MC18/4235P/0264/1-admin,38.4,0,received,MC18/4235P/0264/1-admin,local-authority-eng:ISL,2020-06-19,2019-07-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC18-4235P-0264-1-admin
@@ -1267,16 +1267,16 @@ MC19/0183A/0666/1-mcil,155400,0,received,MC19/0183A/0666/1-mcil,local-authority-
 MC19/0183A/0666/1-ncil,88481.18,0,received,MC19/0183A/0666/1-ncil,local-authority-eng:ISL,2020-06-19,2019-09-23,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-0183A-0666-1-ncil
 MC19/0244L/4475/1-admin,569.6,0,received,MC19/0244L/4475/1-admin,local-authority-eng:ISL,2020-06-19,2019-11-19,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-0244L-4475-1-admin
 MC19/0244L/4475/1-mcil,13670.4,0,received,MC19/0244L/4475/1-mcil,local-authority-eng:ISL,2020-06-19,2019-11-19,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-0244L-4475-1-mcil
-MC19/0551A/0693/1-admin,2752.8,0,received,MC19/0551A/0693/1-admin,local-authority-eng:ISL,2020-06-19,2019-11-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-0551A-0693-1-admin
+MC19/0551A/0693/1-admin,1979.85,0,received,MC19/0551A/0693/1-admin,local-authority-eng:ISL,2020-06-19,2019-11-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-0551A-0693-1-admin
 MC19/0551A/0693/1-mcil,66067.2,0,received,MC19/0551A/0693/1-mcil,local-authority-eng:ISL,2020-06-19,2019-11-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-0551A-0693-1-mcil
 MC19/0551A/0693/1-ncil,37617.14,0,received,MC19/0551A/0693/1-ncil,local-authority-eng:ISL,2020-06-19,2019-11-12,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-0551A-0693-1-ncil
-MC19/1603A/0622/1-admin,566.4,0,received,MC19/1603A/0622/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-15,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-1603A-0622-1-admin
+MC19/1603A/0622/1-admin,942.03,0,received,MC19/1603A/0622/1-admin,local-authority-eng:ISL,2020-06-19,2020-01-15,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-1603A-0622-1-admin
 MC19/1603A/0622/1-mcil,13593.6,0,received,MC19/1603A/0622/1-mcil,local-authority-eng:ISL,2020-06-19,2020-01-15,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-1603A-0622-1-mcil
 MC19/1603A/0622/1-ncil,17898.48,0,received,MC19/1603A/0622/1-ncil,local-authority-eng:ISL,2020-06-19,2020-01-15,,/developer-agreement-transaction/local-authority-eng/ISL/MC19-1603A-0622-1-ncil
-MC55/7018B/0649/1-admin,18465.27,0,received,MC55/7018B/0649/1-admin,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-1-admin
+MC55/7018B/0649/1-admin,5227.78,0,received,MC55/7018B/0649/1-admin,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-1-admin
 MC55/7018B/0649/1-mcil,125466.76,0,received,MC55/7018B/0649/1-mcil,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-1-mcil
 MC55/7018B/0649/1-ncil,350840.19,0,received,MC55/7018B/0649/1-ncil,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-1-ncil
-MC55/7018B/0649/2-admin,2071.07,0,received,MC55/7018B/0649/2-admin,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-2-admin
+MC55/7018B/0649/2-admin,7315.35,0,received,MC55/7018B/0649/2-admin,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-2-admin
 MC55/7018B/0649/2-mcil,49705.89,0,received,MC55/7018B/0649/2-mcil,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-2-mcil
 MC55/7018B/0649/2-ncil,138991.58,0,received,MC55/7018B/0649/2-ncil,local-authority-eng:ISL,2020-06-19,2019-09-13,,/developer-agreement-transaction/local-authority-eng/ISL/MC55-7018B-0649-2-ncil
 P092492-HW,0,0,secured,P092492-HW,local-authority-eng:ISL,2020-08-05,2019-12-11,,/developer-agreement-transaction/local-authority-eng/ISL/P092492-HW
@@ -1518,11 +1518,11 @@ P2019/2991/S73-ETWP,10000,0,secured,P2019/2991/S73-ETWP,local-authority-eng:ISL,
 14/00161/FULM-AH-1P,,15,secured,14/00161/FULM-AH,local-authority-eng:NEA,2020-12-16,2018-01-24,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-AH-1P
 14/00161/FULM-LI-2,2377,,received,14/00161/FULM-LI,local-authority-eng:NEA,2020-12-16,2019-11-29,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-LI-2
 14/00161/FULM-MF-2P,2340,,received,14/00161/FULM-MF,local-authority-eng:NEA,2020-12-16,2018-01-24,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-MF-2P
-14/00161/FULM-OS-1P,4095,5,secured,14/00161/FULM-OS,local-authority-eng:NEA,2020-12-16,2018-01-24,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-OS-1P
+14/00161/FULM-OS-1P,4095,5,secured,14/00161/FULM-OS,local-authority-eng:NEA,2020-12-16,2019-11-29,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-OS-1P
 14/00161/FULM-OS-1Pa,,1,secured,14/00161/FULM-OS,local-authority-eng:NEA,2020-12-16,2019-11-29,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-OS-1Pa
 14/00161/FULM-OS-2,4095,,received,14/00161/FULM-OS,local-authority-eng:NEA,2020-12-16,2019-11-29,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-OS-2
 14/00161/FULM-TT-2,6000,,received,14/00161/FULM-TT,local-authority-eng:NEA,2020-12-16,2019-11-29,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-TT-2
-14/00161/FULM-rec,96913.25,,received,14/00161/FULM-con,local-authority-eng:NEA,2020-12-01,2019-08-30,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-rec
+14/00161/FULM-rec,96913.25,,received,14/00161/FULM-con,local-authority-eng:NEA,2020-12-01,2019-06-28,,/developer-agreement-transaction/local-authority-eng/NEA/14-00161-FULM-rec
 14/00353/FUL-dem,2480.32,,secured,14/00353/FUL-con,local-authority-eng:NEA,2020-12-01,2019-10-23,,/developer-agreement-transaction/local-authority-eng/NEA/14-00353-FUL-dem
 14/00353/FUL-rec,2480.32,,received,14/00353/FUL-con,local-authority-eng:NEA,2020-12-01,2020-03-05,,/developer-agreement-transaction/local-authority-eng/NEA/14-00353-FUL-rec
 14/00465/OUTM-AH-1P,,120,secured,14/00465/OUTM-AH,local-authority-eng:NEA,2020-12-16,2017-12-29,,/developer-agreement-transaction/local-authority-eng/NEA/14-00465-OUTM-AH-1P
@@ -1575,7 +1575,7 @@ P2019/2991/S73-ETWP,10000,0,secured,P2019/2991/S73-ETWP,local-authority-eng:ISL,
 14/01978/OUTM-OS-1pc,,,secured,14/01978/OUTM-OS,local-authority-eng:NEA,2020-12-16,2015-01-22,,/developer-agreement-transaction/local-authority-eng/NEA/14-01978-OUTM-OS-1pc
 15/00429/FUL-dem,3161.28,,secured,15/00429/FUL-con,local-authority-eng:NEA,2020-12-01,2019-11-29,,/developer-agreement-transaction/local-authority-eng/NEA/15-00429-FUL-dem
 15/00501/FULM-dem,22239.68,,secured,15/00501/FULM-con,local-authority-eng:NEA,2020-12-01,2019-10-23,,/developer-agreement-transaction/local-authority-eng/NEA/15-00501-FULM-dem
-15/00501/FULM-rec,7439.68,,received,15/00501/FULM-con,local-authority-eng:NEA,2020-12-01,2020-01-21,,/developer-agreement-transaction/local-authority-eng/NEA/15-00501-FULM-rec
+15/00501/FULM-rec,7400,,received,15/00501/FULM-con,local-authority-eng:NEA,2020-12-01,2020-03-26,,/developer-agreement-transaction/local-authority-eng/NEA/15-00501-FULM-rec
 15/00523/RMAM-AH-2,469993.43,,received,15/00523/RMAM-AH,local-authority-eng:NEA,2020-12-16,2019-03-06,,/developer-agreement-transaction/local-authority-eng/NEA/15-00523-RMAM-AH-2
 15/00523/RMAM-CF-2,261462.23,,received,15/00523/RMAM-CF,local-authority-eng:NEA,2020-12-16,2019-03-06,,/developer-agreement-transaction/local-authority-eng/NEA/15-00523-RMAM-CF-2
 15/00523/RMAM-CF-5,3000,,spent,15/00523/RMAM-CF,local-authority-eng:NEA,2020-12-16,2019-11-21,,/developer-agreement-transaction/local-authority-eng/NEA/15-00523-RMAM-CF-5
@@ -1664,10 +1664,10 @@ P2019/2991/S73-ETWP,10000,0,secured,P2019/2991/S73-ETWP,local-authority-eng:ISL,
 17/01266/OUTM-OS-1P,,3,secured,17/01266/OUTM-OS,local-authority-eng:NEA,2020-12-16,2018-10-18,,/developer-agreement-transaction/local-authority-eng/NEA/17-01266-OUTM-OS-1P
 17/01266/OUTM-OS-1Pa,,1,secured,17/01266/OUTM-OS,local-authority-eng:NEA,2020-12-16,2018-10-18,,/developer-agreement-transaction/local-authority-eng/NEA/17-01266-OUTM-OS-1Pa
 17/01846/FUL-dem,80221.91,,secured,17/01846/FUL-con,local-authority-eng:NEA,2020-12-01,2019-05-22,,/developer-agreement-transaction/local-authority-eng/NEA/17-01846-FUL-dem
-17/01846/FUL-rec,30221.91,,received,17/01846/FUL-con,local-authority-eng:NEA,2020-12-01,2019-06-21,,/developer-agreement-transaction/local-authority-eng/NEA/17-01846-FUL-rec
+17/01846/FUL-rec,50000,,received,17/01846/FUL-con,local-authority-eng:NEA,2020-12-01,2019-06-07,,/developer-agreement-transaction/local-authority-eng/NEA/17-01846-FUL-rec
 17/02215/RMA-dem,17985,,secured,17/02215/RMA-con,local-authority-eng:NEA,2020-12-01,2019-05-10,2019-05-31,/developer-agreement-transaction/local-authority-eng/NEA/17-02215-RMA-dem
 17/02215/RMA-rec,15435,,received,17/02215/RMA-con,local-authority-eng:NEA,2020-12-01,2019-06-04,,/developer-agreement-transaction/local-authority-eng/NEA/17-02215-RMA-rec
-18/00123/FUL-dem,9180,,secured,18/00123/FUL-con,local-authority-eng:NEA,2020-12-01,2020-01-03,2019-12-24,/developer-agreement-transaction/local-authority-eng/NEA/18-00123-FUL-dem
+18/00123/FUL-dem,11066,,secured,18/00123/FUL-con,local-authority-eng:NEA,2020-12-01,2019-11-29,2019-12-24,/developer-agreement-transaction/local-authority-eng/NEA/18-00123-FUL-dem
 18/00125/FULM-AH-2,4840.04,,received,18/00125/FULM-AH,local-authority-eng:NEA,2020-12-16,2019-05-02,,/developer-agreement-transaction/local-authority-eng/NEA/18-00125-FULM-AH-2
 18/00509/FULM-AH-1,159815,,secured,18/00509/FULM-AH,local-authority-eng:NEA,2020-12-16,2019-03-20,,/developer-agreement-transaction/local-authority-eng/NEA/18-00509-FULM-AH-1
 18/00509/FULM-AH-2,159815,,received,18/00509/FULM-AH,local-authority-eng:NEA,2020-12-16,2020-01-21,,/developer-agreement-transaction/local-authority-eng/NEA/18-00509-FULM-AH-2
@@ -1696,7 +1696,7 @@ P2019/2991/S73-ETWP,10000,0,secured,P2019/2991/S73-ETWP,local-authority-eng:ISL,
 18/01241/FUL-dem,5396.98,,secured,18/01241/FUL-con,local-authority-eng:NEA,2020-12-01,2020-02-28,,/developer-agreement-transaction/local-authority-eng/NEA/18-01241-FUL-dem
 18/01497/FUL-dem,5825.01,,secured,18/01497/FUL-con,local-authority-eng:NEA,2020-12-01,2019-11-20,,/developer-agreement-transaction/local-authority-eng/NEA/18-01497-FUL-dem
 18/01497/FUL-rec,5825.01,,received,18/01497/FUL-con,local-authority-eng:NEA,2020-12-01,2020-02-14,,/developer-agreement-transaction/local-authority-eng/NEA/18-01497-FUL-rec
-18/01645/RMAM-rec,166275.2,,received,18/01645/RMAM-con,local-authority-eng:NEA,2020-12-01,2019-08-30,,/developer-agreement-transaction/local-authority-eng/NEA/18-01645-RMAM-rec
+18/01645/RMAM-rec,166275.31,,received,18/01645/RMAM-con,local-authority-eng:NEA,2020-12-01,2019-06-12,,/developer-agreement-transaction/local-authority-eng/NEA/18-01645-RMAM-rec
 18/01898/OUTM-CF-1,13840.7,,secured,18/01898/OUTM-CF,local-authority-eng:NEA,2020-12-16,2020-01-30,,/developer-agreement-transaction/local-authority-eng/NEA/18-01898-OUTM-CF-1
 18/01898/OUTM-GI-1,205.32,,secured,18/01898/OUTM-GI,local-authority-eng:NEA,2020-12-16,2020-01-30,,/developer-agreement-transaction/local-authority-eng/NEA/18-01898-OUTM-GI-1
 18/01898/OUTM-MF-5,720,,received,18/01898/OUTM-MF,local-authority-eng:NEA,2020-12-16,2020-01-30,,/developer-agreement-transaction/local-authority-eng/NEA/18-01898-OUTM-MF-5
@@ -1874,14 +1874,14 @@ PM/16/0253_EDSP,,,Spent,PM/16/0253_1.76a_ED,local-authority-eng:NFK,2020-12-04,2
 20121303HWR,60000,,received,20121303HW,local-authority-eng:NLN,2020-11-06,2017-08-02,,/developer-agreement-transaction/local-authority-eng/NLN/20121303HWR
 20130643AHR,34500,,allocated,20130643AH,local-authority-eng:NLN,2020-11-04,2015-04-22,,/developer-agreement-transaction/local-authority-eng/NLN/20130643AHR
 20130734RECR,4349.48,,received,20130734REC,local-authority-eng:NLN,2020-11-06,2016-11-21,,/developer-agreement-transaction/local-authority-eng/NLN/20130734RECR
-20131288REC1R,4010,,received,20131288REC1,local-authority-eng:NLN,2020-11-06,2019-06-06,,/developer-agreement-transaction/local-authority-eng/NLN/20131288REC1R
+20131288REC1R,30990,,spent,20131288REC1,local-authority-eng:NLN,2020-11-06,2019-08-01,,/developer-agreement-transaction/local-authority-eng/NLN/20131288REC1R
 20131288REC2R,30000,,received,20131288REC2,local-authority-eng:NLN,2020-11-06,2019-12-09,,/developer-agreement-transaction/local-authority-eng/NLN/20131288REC2R
 20131578LEIR,16733,,spent,20131578LEI,local-authority-eng:NLN,2020-11-06,2020-02-17,,/developer-agreement-transaction/local-authority-eng/NLN/20131578LEIR
 20140161RECR,33934.17,,received,20140161REC,local-authority-eng:NLN,2020-11-06,2017-03-27,,/developer-agreement-transaction/local-authority-eng/NLN/20140161RECR
 20140196AHR,,4,secured,20140196AH,local-authority-eng:NLN,2020-11-12,2020-01-09,,/developer-agreement-transaction/local-authority-eng/NLN/20140196AHR
 20140249RECR,5804.09,,received,20140249REC,local-authority-eng:NLN,2020-11-06,2017-10-09,,/developer-agreement-transaction/local-authority-eng/NLN/20140249RECR
 20140270AHR,36360,,received,20140270AH,local-authority-eng:NLN,2020-11-06,2016-03-22,,/developer-agreement-transaction/local-authority-eng/NLN/20140270AHR
-20150111HWR,1500,,received,20150111HW,local-authority-eng:NLN,2020-11-06,2015-10-15,,/developer-agreement-transaction/local-authority-eng/NLN/20150111HWR
+20150111HWR,5016.78,,received,20150111HW,local-authority-eng:NLN,2020-11-06,2018-05-01,,/developer-agreement-transaction/local-authority-eng/NLN/20150111HWR
 20150111RECR,21800.13,,received,20150111REC,local-authority-eng:NLN,2020-11-06,2018-05-01,,/developer-agreement-transaction/local-authority-eng/NLN/20150111RECR
 20150228AHR,48792.15,,received,20150228AH,local-authority-eng:NLN,2020-11-06,2018-08-13,,/developer-agreement-transaction/local-authority-eng/NLN/20150228AHR
 20150528AHR,12694.08,,returned,20150528AH,local-authority-eng:NLN,2020-11-06,2019-08-02,,/developer-agreement-transaction/local-authority-eng/NLN/20150528AHR
@@ -3025,16 +3025,16 @@ LA/2010/0332/106/S1-12.1/33,-48899.92,,transferred,LA/2010/0332/106/S1-12.1,loca
 LA/2010/0332/106/S1-14/39,-2835.62,,transferred,LA/2010/0332/106/S1-14,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0332-106-S1-14-39
 LA/2010/0529/106/OP-3.10/25,-29453.39,,spent,LA/2010/0529/106/OP-3.10,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0529-106-OP-3-10-25
 LA/2010/0529/106/OP-3.10/26,-30943.25,,spent,LA/2010/0529/106/OP-3.10,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0529-106-OP-3-10-26
-LA/2010/0995/106/S3-3.2/27,11813.63,,received,LA/2010/0995/106/S3-3.2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-3-2-27
-LA/2010/0995/106/S3-3.3/30,18836.61,,received,LA/2010/0995/106/S3-3.3,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-3-3-30
+LA/2010/0995/106/S3-3.2/27,-25515.41,,spent,LA/2010/0995/106/S3-3.2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-3-2-27
+LA/2010/0995/106/S3-3.3/30,-35077.48,,spent,LA/2010/0995/106/S3-3.3,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-3-3-30
 LA/2010/0995/106/S3-6.1/33,-111612.57,,spent,LA/2010/0995/106/S3-6.1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-6-1-33
 LA/2010/0995/106/S3-7.1/34,-34879.46,,spent,LA/2010/0995/106/S3-7.1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-7-1-34
 LA/2010/0995/106/S3-7.1/35,-35716.41,,spent,LA/2010/0995/106/S3-7.1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-7-1-35
 LA/2010/0995/106/S3-7.1/36,-37118.65,,spent,LA/2010/0995/106/S3-7.1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S3-7-1-36
-LA/2010/0995/106/S4-14/15/41,91292.15,,received,LA/2010/0995/106/S4-14/15,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S4-14-15-41
+LA/2010/0995/106/S4-14/15/41,-44336.26,,spent,LA/2010/0995/106/S4-14/15,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S4-14-15-41
 LA/2010/0995/106/S6-1.2/57,153029.94,,allocated,LA/2010/0995/106/S6-1.2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2010-0995-106-S6-1-2-57
 LA/2011/0141/106/S1-13/60,5668.76,,received,LA/2011/0141/106/S1-13,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2011-0141-106-S1-13-60
-LA/2011/0141/106/S1-20/71,200981.53,,received,LA/2011/0141/106/S1-20,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2011-0141-106-S1-20-71
+LA/2011/0141/106/S1-20/71,-200981.53,,transferred,LA/2011/0141/106/S1-20,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2011-0141-106-S1-20-71
 LA/2011/0737/106/S1-2/2,-2576.47,,spent,LA/2011/0737/106/S1-2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2011-0737-106-S1-2-2
 LA/2011/0740/106/S1-2/2,-4590.16,,spent,LA/2011/0740/106/S1-2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2011-0740-106-S1-2-2
 LA/2012/0221/106/S9-1-5/20,-15840,,spent,LA/2012/0221/106/S9-1-5,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0221-106-S9-1-5-20
@@ -3042,8 +3042,8 @@ LA/2012/0221/106/S9-1-5/21,-15840,,spent,LA/2012/0221/106/S9-1-5,local-authority
 LA/2012/0382/106/S2-12.5-8/54,-10000,,transferred,LA/2012/0382/106/S2-12.5-8,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0382-106-S2-12-5-8-54
 LA/2012/0799/106/S2-11/74,56797.7,,received,LA/2012/0799/106/S2-11,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0799-106-S2-11-74
 LA/2012/0799/106/S2-12/78,3544.18,,received,LA/2012/0799/106/S2-12,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0799-106-S2-12-78
-LA/2012/0799/106/S2-8/57,6361.34,,received,LA/2012/0799/106/S2-8,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0799-106-S2-8-57
-LA/2012/0799/106/S2-9/61,-13195.24,,spent,LA/2012/0799/106/S2-9,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0799-106-S2-9-61
+LA/2012/0799/106/S2-8/57,-6361.34,,spent,LA/2012/0799/106/S2-8,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0799-106-S2-8-57
+LA/2012/0799/106/S2-9/61,13195.24,,received,LA/2012/0799/106/S2-9,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-0799-106-S2-9-61
 LA/2012/1210/UU/S1-1/1,-29976.29,,transferred,LA/2012/1210/UU/S1-1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-1210-UU-S1-1-1
 LA/2012/1285/106/S1P1-2/3,8830.54,,received,LA/2012/1285/106/S1P1-2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-1285-106-S1P1-2-3
 LA/2012/1285/106/S1P1-4/5,333560.75,,received,LA/2012/1285/106/S1P1-4,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2012-1285-106-S1P1-4-5
@@ -3069,19 +3069,19 @@ LA/2014/0555/106/S1-12/41,3547.69,,received,LA/2014/0555/106/S1-12,local-authori
 LA/2014/0555/106/S1-13/42,-33026.3,,spent,LA/2014/0555/106/S1-13,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-13-42
 LA/2014/0555/106/S1-13/43,-33249.79,,spent,LA/2014/0555/106/S1-13,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-13-43
 LA/2014/0555/106/S1-5/26,-8642.52,,transferred,LA/2014/0555/106/S1-5,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-5-26
-LA/2014/0555/106/S1-5/27,-8869.22,,transferred,LA/2014/0555/106/S1-5,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-5-27
+LA/2014/0555/106/S1-5/27,8869.22,,received,LA/2014/0555/106/S1-5,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-5-27
 LA/2014/0555/106/S1-6/29,27337.89,,received,LA/2014/0555/106/S1-6,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-6-29
 LA/2014/0555/106/S1-7/30,-17809,,spent,LA/2014/0555/106/S1-7,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-7-30
 LA/2014/0555/106/S1-7/31,18359.28,,received,LA/2014/0555/106/S1-7,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-7-31
 LA/2014/0555/106/S1-9.1/34,-32726.34,,allocated,LA/2014/0555/106/S1-9.1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-9-1-34
-LA/2014/0555/106/S1-9.1/35,33584.78,,received,LA/2014/0555/106/S1-9.1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-9-1-35
+LA/2014/0555/106/S1-9.1/35,-33584.78,,allocated,LA/2014/0555/106/S1-9.1,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-9-1-35
 LA/2014/0555/106/S1-9.2/36,4198.1,,received,LA/2014/0555/106/S1-9.2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-0555-106-S1-9-2-36
 LA/2014/1701/106/OP-8.1.3/1,-1000,,spent,LA/2014/1701/106/OP-8.1.3,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-1701-106-OP-8-1-3-1
 LA/2014/1701/106/S2P2-3/18,33307.29,,received,LA/2014/1701/106/S2P2-3,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-1701-106-S2P2-3-18
 LA/2014/1701/106/S2P2-8/26,9233.22,,received,LA/2014/1701/106/S2P2-8,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-1701-106-S2P2-8-26
 LA/2014/2208/106/OP-8.1.3/2,1031.93,,received,LA/2014/2208/106/OP-8.1.3,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2014-2208-106-OP-8-1-3-2
 LA/2015/0219/106/S2-5/19,-105489.81,,transferred,LA/2015/0219/106/S2-5,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2015-0219-106-S2-5-19
-LA/2016/1795/106/OP-DEF/3,5000,,received,LA/2016/1795/106/OP-DEF,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2016-1795-106-OP-DEF-3
+LA/2016/1795/106/OP-DEF/3,-5000,,spent,LA/2016/1795/106/OP-DEF,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2016-1795-106-OP-DEF-3
 LA/2018/2304/106A/S2-2/3,8095.58,,received,LA/2018/2304/106A/S2-2,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2018-2304-106A-S2-2-3
 LA/2018/2304/106A/S2-5/5,12056.67,,received,LA/2018/2304/106A/S2-5,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2018-2304-106A-S2-5-5
 LA/2018/2304/106A/S2-8/8,912.69,,received,LA/2018/2304/106A/S2-8,local-authority-eng:SNR,2021-03-25,,,/developer-agreement-transaction/local-authority-eng/SNR/LA-2018-2304-106A-S2-8-8
@@ -3099,116 +3099,116 @@ LA/2018/2304/106A/S2-8/8,912.69,,received,LA/2018/2304/106A/S2-8,local-authority
 7,76593.93,,secured,2092/16/FUL-CON1,local-authority-eng:WDE,2016-12-02,2016-12-02,,/developer-agreement-transaction/local-authority-eng/WDE/7
 8,1050,,received,01037/2013-CON1,local-authority-eng:WDE,2016-02-08,2016-02-08,,/developer-agreement-transaction/local-authority-eng/WDE/8
 9,-21000,,received,01037/2013-CON2,local-authority-eng:WDE,2016-02-08,2016-02-08,,/developer-agreement-transaction/local-authority-eng/WDE/9
-14/10444/CIL,1503.81,,secured,LA2016/119A,local-authority-eng:WIL,2020-04-15,2020-03-10,,/developer-agreement-transaction/local-authority-eng/WIL/14-10444-CIL
-15/05086/CIL,478.13,,received,LA2015/322A,local-authority-eng:WIL,2020-04-15,2019-04-03,,/developer-agreement-transaction/local-authority-eng/WIL/15-05086-CIL
+14/10444/CIL,4511.43,,secured,LA2016/119B,local-authority-eng:WIL,2020-04-15,2020-03-10,,/developer-agreement-transaction/local-authority-eng/WIL/14-10444-CIL
+15/05086/CIL,1434.38,,received,LA2015/322B,local-authority-eng:WIL,2020-04-15,2019-04-03,,/developer-agreement-transaction/local-authority-eng/WIL/15-05086-CIL
 15/05550/CIL,2975,,received,LA2015/420B,local-authority-eng:WIL,2020-04-15,2019-06-06,,/developer-agreement-transaction/local-authority-eng/WIL/15-05550-CIL
 15/07201/CIL,9014.25,,received,LA2015/400B,local-authority-eng:WIL,2020-04-15,2019-05-21,,/developer-agreement-transaction/local-authority-eng/WIL/15-07201-CIL
-15/07289/CIL,449.14,,received,LA2016/182B,local-authority-eng:WIL,2020-04-15,2019-07-29,,/developer-agreement-transaction/local-authority-eng/WIL/15-07289-CIL
-15/08696/CIL,1525.28,,received,LA2019/229A,local-authority-eng:WIL,2020-04-15,2019-08-19,,/developer-agreement-transaction/local-authority-eng/WIL/15-08696-CIL
-15/11291/CIL,1719.88,,secured,LA2019/211B,local-authority-eng:WIL,2020-04-15,2019-07-30,,/developer-agreement-transaction/local-authority-eng/WIL/15-11291-CIL
+15/07289/CIL,149.71,,received,LA2016/182A,local-authority-eng:WIL,2020-04-15,2019-07-29,,/developer-agreement-transaction/local-authority-eng/WIL/15-07289-CIL
+15/08696/CIL,4575.85,,received,LA2019/229B,local-authority-eng:WIL,2020-04-15,2019-08-19,,/developer-agreement-transaction/local-authority-eng/WIL/15-08696-CIL
+15/11291/CIL,573.29,,secured,LA2019/211A,local-authority-eng:WIL,2020-04-15,2019-07-30,,/developer-agreement-transaction/local-authority-eng/WIL/15-11291-CIL
 15/11698/CIL,3117.28,,received,LA2016/460B,local-authority-eng:WIL,2020-04-15,2019-09-27,,/developer-agreement-transaction/local-authority-eng/WIL/15-11698-CIL
 15/12294/CIL,201.95,,received,LA2018/036B,local-authority-eng:WIL,2020-04-15,2019-04-02,,/developer-agreement-transaction/local-authority-eng/WIL/15-12294-CIL
-15/12308/CIL,394.94,,received,LA2016/121A,local-authority-eng:WIL,2020-04-15,2019-04-02,,/developer-agreement-transaction/local-authority-eng/WIL/15-12308-CIL
-16/02827/CIL,1736.86,,received,LA2017/127B,local-authority-eng:WIL,2020-04-15,2019-10-11,,/developer-agreement-transaction/local-authority-eng/WIL/16-02827-CIL
+15/12308/CIL,1184.82,,received,LA2016/121B,local-authority-eng:WIL,2020-04-15,2019-04-02,,/developer-agreement-transaction/local-authority-eng/WIL/15-12308-CIL
+16/02827/CIL,578.95,,received,LA2017/127A,local-authority-eng:WIL,2020-04-15,2019-10-11,,/developer-agreement-transaction/local-authority-eng/WIL/16-02827-CIL
 16/05034/CIL,1276.47,,received,LA2016/333A,local-authority-eng:WIL,2020-04-15,2019-12-20,,/developer-agreement-transaction/local-authority-eng/WIL/16-05034-CIL
-16/05344/CIL,1506.09,,received,LA2019/130A,local-authority-eng:WIL,2020-04-15,2020-01-30,,/developer-agreement-transaction/local-authority-eng/WIL/16-05344-CIL
-16/07016/CIL,2528.2,,received,LA2017/063B,local-authority-eng:WIL,2020-04-15,2019-04-12,,/developer-agreement-transaction/local-authority-eng/WIL/16-07016-CIL
-16/07198/CIL,991.14,,received,LA2019/272B,local-authority-eng:WIL,2020-04-15,2019-10-16,,/developer-agreement-transaction/local-authority-eng/WIL/16-07198-CIL
-16/07283/CIL,253.31,,received,LA2016/461A,local-authority-eng:WIL,2020-04-15,2019-07-25,,/developer-agreement-transaction/local-authority-eng/WIL/16-07283-CIL
-16/08702/CIL,89.38,,received,LA2019/331A,local-authority-eng:WIL,2020-04-15,2019-12-24,,/developer-agreement-transaction/local-authority-eng/WIL/16-08702-CIL
-16/08971/CIL,3576.38,,received,LA2017/111B,local-authority-eng:WIL,2020-04-15,2019-07-04,,/developer-agreement-transaction/local-authority-eng/WIL/16-08971-CIL
+16/05344/CIL,1757.1,,secured,LA2019/130A,local-authority-eng:WIL,2020-04-15,2020-01-30,,/developer-agreement-transaction/local-authority-eng/WIL/16-05344-CIL
+16/07016/CIL,2167.03,,received,LA2017/063B,local-authority-eng:WIL,2020-04-15,2019-04-12,,/developer-agreement-transaction/local-authority-eng/WIL/16-07016-CIL
+16/07198/CIL,330.38,,received,LA2019/272A,local-authority-eng:WIL,2020-04-15,2019-10-16,,/developer-agreement-transaction/local-authority-eng/WIL/16-07198-CIL
+16/07283/CIL,819.92,,received,LA2016/461B,local-authority-eng:WIL,2020-04-15,2019-07-25,,/developer-agreement-transaction/local-authority-eng/WIL/16-07283-CIL
+16/08702/CIL,268.73,,received,LA2019/331B,local-authority-eng:WIL,2020-04-15,2019-12-24,,/developer-agreement-transaction/local-authority-eng/WIL/16-08702-CIL
+16/08971/CIL,1192.13,,received,LA2017/111A,local-authority-eng:WIL,2020-04-15,2019-07-04,,/developer-agreement-transaction/local-authority-eng/WIL/16-08971-CIL
 16/09788/CIL,238.98,,secured,LA2020/024A,local-authority-eng:WIL,2020-04-15,2020-03-09,,/developer-agreement-transaction/local-authority-eng/WIL/16-09788-CIL
 16/10513/CIL,4488.28,,secured,LA2019/326A,local-authority-eng:WIL,2020-04-15,2020-01-20,,/developer-agreement-transaction/local-authority-eng/WIL/16-10513-CIL
-16/11064/CIL,125,,received,LA2018/204A,local-authority-eng:WIL,2020-04-15,2020-01-17,,/developer-agreement-transaction/local-authority-eng/WIL/16-11064-CIL
-16/11728/CIL,1112.46,,secured,LA2017/236A,local-authority-eng:WIL,2020-04-15,2019-10-15,,/developer-agreement-transaction/local-authority-eng/WIL/16-11728-CIL
+16/11064/CIL,348.55,,received,LA2018/204B,local-authority-eng:WIL,2020-04-15,2020-01-17,,/developer-agreement-transaction/local-authority-eng/WIL/16-11064-CIL
+16/11728/CIL,3337.39,,secured,LA2017/236B,local-authority-eng:WIL,2020-04-15,2019-10-15,,/developer-agreement-transaction/local-authority-eng/WIL/16-11728-CIL
 16/11928/CIL,215.05,,received,LA2017/081A,local-authority-eng:WIL,2020-04-15,2019-06-18,,/developer-agreement-transaction/local-authority-eng/WIL/16-11928-CIL
-16/12263/CIL,4219.88,,received,LA2019/135B,local-authority-eng:WIL,2020-04-15,2019-05-17,,/developer-agreement-transaction/local-authority-eng/WIL/16-12263-CIL
-16/12397/CIL,1116.22,,received,LA2019/068A,local-authority-eng:WIL,2020-04-15,2019-04-02,,/developer-agreement-transaction/local-authority-eng/WIL/16-12397-CIL
-17/00447/CIL,317.63,,received,LA2017/379B,local-authority-eng:WIL,2020-04-15,2020-03-20,,/developer-agreement-transaction/local-authority-eng/WIL/17-00447-CIL
+16/12263/CIL,1406.63,,received,LA2019/135A,local-authority-eng:WIL,2020-04-15,2019-05-17,,/developer-agreement-transaction/local-authority-eng/WIL/16-12263-CIL
+16/12397/CIL,3348.66,,received,LA2019/068B,local-authority-eng:WIL,2020-04-15,2019-04-02,,/developer-agreement-transaction/local-authority-eng/WIL/16-12397-CIL
+17/00447/CIL,105.88,,received,LA2017/379A,local-authority-eng:WIL,2020-04-15,2020-03-20,,/developer-agreement-transaction/local-authority-eng/WIL/17-00447-CIL
 17/01003/CIL,7524.41,,received,LA2017/234B,local-authority-eng:WIL,2020-04-15,2019-05-14,,/developer-agreement-transaction/local-authority-eng/WIL/17-01003-CIL
-17/01972/CIL,3094.58,,received,LA2017/203B,local-authority-eng:WIL,2020-04-15,2019-05-31,,/developer-agreement-transaction/local-authority-eng/WIL/17-01972-CIL
+17/01972/CIL,1031.53,,received,LA2017/203A,local-authority-eng:WIL,2020-04-15,2019-05-31,,/developer-agreement-transaction/local-authority-eng/WIL/17-01972-CIL
 17/03319/CIL,6.55,,received,LA2017/252A,local-authority-eng:WIL,2020-04-15,2019-07-30,,/developer-agreement-transaction/local-authority-eng/WIL/17-03319-CIL
 17/04080/CIL,345.95,,received,LA2017/271A,local-authority-eng:WIL,2020-04-15,2019-04-29,,/developer-agreement-transaction/local-authority-eng/WIL/17-04080-CIL
 17/05625/CIL,1383.8,,received,LA2019/271A,local-authority-eng:WIL,2020-04-15,2019-10-16,,/developer-agreement-transaction/local-authority-eng/WIL/17-05625-CIL
-17/06804/CIL,660.16,,received,LA2017/329A,local-authority-eng:WIL,2020-04-15,2019-05-09,,/developer-agreement-transaction/local-authority-eng/WIL/17-06804-CIL
-17/07283/CIL,1533.4,,received,LA2017/333A,local-authority-eng:WIL,2020-04-15,2019-07-31,,/developer-agreement-transaction/local-authority-eng/WIL/17-07283-CIL
-17/08775/CIL,2852.62,,secured,LA2019/233B,local-authority-eng:WIL,2020-04-15,2020-02-24,,/developer-agreement-transaction/local-authority-eng/WIL/17-08775-CIL
+17/06804/CIL,1980.47,,received,LA2017/329B,local-authority-eng:WIL,2020-04-15,2019-05-09,,/developer-agreement-transaction/local-authority-eng/WIL/17-06804-CIL
+17/07283/CIL,4600.2,,received,LA2017/333B,local-authority-eng:WIL,2020-04-15,2019-07-31,,/developer-agreement-transaction/local-authority-eng/WIL/17-07283-CIL
+17/08775/CIL,950.87,,received,LA2019/233A,local-authority-eng:WIL,2020-04-15,2020-02-24,,/developer-agreement-transaction/local-authority-eng/WIL/17-08775-CIL
 17/08942/CIL,24065.39,,secured,LA2018/080B,local-authority-eng:WIL,2020-04-15,2019-12-13,,/developer-agreement-transaction/local-authority-eng/WIL/17-08942-CIL
-17/08959/CIL,1884.05,,received,LA2019/113A,local-authority-eng:WIL,2020-04-15,2019-05-14,,/developer-agreement-transaction/local-authority-eng/WIL/17-08959-CIL
-17/09443/CIL,7864.4,,received,LA2019/132B,local-authority-eng:WIL,2020-04-15,2019-11-19,,/developer-agreement-transaction/local-authority-eng/WIL/17-09443-CIL
-17/09632/CIL,24.06,,received,LA2019/315A,local-authority-eng:WIL,2020-04-15,2020-02-25,,/developer-agreement-transaction/local-authority-eng/WIL/17-09632-CIL
-17/09801/CIL,1034.55,,received,LA2019/215B,local-authority-eng:WIL,2020-04-15,2019-07-30,,/developer-agreement-transaction/local-authority-eng/WIL/17-09801-CIL
-17/12194/CIL,60234.72,,secured,LA2018/120B,local-authority-eng:WIL,2020-04-15,2019-05-15,,/developer-agreement-transaction/local-authority-eng/WIL/17-12194-CIL
-17/12474/CIL,1995.38,,received,LA2019/061B,local-authority-eng:WIL,2020-04-15,2019-04-30,,/developer-agreement-transaction/local-authority-eng/WIL/17-12474-CIL
-17/12531/CIL,3922.29,,secured,LA2020/004B,local-authority-eng:WIL,2020-04-15,2020-03-09,,/developer-agreement-transaction/local-authority-eng/WIL/17-12531-CIL
-18/00380/CIL,178.77,,received,LA2019/242A,local-authority-eng:WIL,2020-04-15,2019-09-04,,/developer-agreement-transaction/local-authority-eng/WIL/18-00380-CIL
+17/08959/CIL,9420.25,,received,LA2019/113B,local-authority-eng:WIL,2020-04-15,2019-05-14,,/developer-agreement-transaction/local-authority-eng/WIL/17-08959-CIL
+17/09443/CIL,2246.97,,received,LA2019/132A,local-authority-eng:WIL,2020-04-15,2019-11-19,,/developer-agreement-transaction/local-authority-eng/WIL/17-09443-CIL
+17/09632/CIL,72.19,,received,LA2019/315B,local-authority-eng:WIL,2020-04-15,2020-02-25,,/developer-agreement-transaction/local-authority-eng/WIL/17-09632-CIL
+17/09801/CIL,344.85,,received,LA2019/215A,local-authority-eng:WIL,2020-04-15,2019-07-30,,/developer-agreement-transaction/local-authority-eng/WIL/17-09801-CIL
+17/12194/CIL,20078.24,,received,LA2018/120A,local-authority-eng:WIL,2020-04-15,2019-05-15,,/developer-agreement-transaction/local-authority-eng/WIL/17-12194-CIL
+17/12474/CIL,399.08,,received,LA2019/061A,local-authority-eng:WIL,2020-04-15,2019-04-30,,/developer-agreement-transaction/local-authority-eng/WIL/17-12474-CIL
+17/12531/CIL,1307.43,,secured,LA2020/004A,local-authority-eng:WIL,2020-04-15,2020-03-09,,/developer-agreement-transaction/local-authority-eng/WIL/17-12531-CIL
+18/00380/CIL,536.31,,received,LA2019/242B,local-authority-eng:WIL,2020-04-15,2019-09-04,,/developer-agreement-transaction/local-authority-eng/WIL/18-00380-CIL
 18/00800/CIL,5390.25,,received,LA2018/063B,local-authority-eng:WIL,2020-04-15,2020-01-07,,/developer-agreement-transaction/local-authority-eng/WIL/18-00800-CIL
-18/00940/CIL,844.2,,received,LA2018/082B,local-authority-eng:WIL,2020-04-15,2019-08-23,,/developer-agreement-transaction/local-authority-eng/WIL/18-00940-CIL
+18/00940/CIL,281.9,,received,LA2018/082A,local-authority-eng:WIL,2020-04-15,2019-08-23,,/developer-agreement-transaction/local-authority-eng/WIL/18-00940-CIL
 18/00985/CIL,8849.17,,received,LA2019/285B,local-authority-eng:WIL,2020-04-15,2020-01-15,,/developer-agreement-transaction/local-authority-eng/WIL/18-00985-CIL
 18/02232/CIL,350.46,,received,LA2018/085A,local-authority-eng:WIL,2020-04-15,2019-06-05,,/developer-agreement-transaction/local-authority-eng/WIL/18-02232-CIL
 18/02409/CIL,244.48,,received,LA2018/081A,local-authority-eng:WIL,2020-04-15,2019-12-17,,/developer-agreement-transaction/local-authority-eng/WIL/18-02409-CIL
-18/02652/CIL,963.92,,received,LA2018/117A,local-authority-eng:WIL,2020-04-15,2020-03-17,,/developer-agreement-transaction/local-authority-eng/WIL/18-02652-CIL
+18/02652/CIL,3373.72,,secured,LA2018/117B,local-authority-eng:WIL,2020-04-15,2020-03-17,,/developer-agreement-transaction/local-authority-eng/WIL/18-02652-CIL
 18/03098/CIL,2423.88,,received,LA2019/154A,local-authority-eng:WIL,2020-04-15,2019-05-31,,/developer-agreement-transaction/local-authority-eng/WIL/18-03098-CIL
-18/03943/CIL,3235.76,,received,LA2019/249B,local-authority-eng:WIL,2020-04-15,2019-10-21,,/developer-agreement-transaction/local-authority-eng/WIL/18-03943-CIL
-18/04224/CIL,18907.72,,received,LA2019/284A1,local-authority-eng:WIL,2020-04-15,2019-11-18,,/developer-agreement-transaction/local-authority-eng/WIL/18-04224-CIL
-18/04477/CIL,3800.54,,received,LA2018/201A2,local-authority-eng:WIL,2020-04-15,2019-10-02,,/developer-agreement-transaction/local-authority-eng/WIL/18-04477-CIL
-18/04614/CIL,1458.16,,received,LA2019/010A,local-authority-eng:WIL,2020-04-15,2019-07-02,,/developer-agreement-transaction/local-authority-eng/WIL/18-04614-CIL
-18/04724/CIL,8365.23,,received,LA2020/018B,local-authority-eng:WIL,2020-04-15,2020-02-24,,/developer-agreement-transaction/local-authority-eng/WIL/18-04724-CIL
+18/03943/CIL,1078.59,,received,LA2019/249A,local-authority-eng:WIL,2020-04-15,2019-10-21,,/developer-agreement-transaction/local-authority-eng/WIL/18-03943-CIL
+18/04224/CIL,13440.01,,received,LA2019/284B2,local-authority-eng:WIL,2020-04-15,2019-11-18,,/developer-agreement-transaction/local-authority-eng/WIL/18-04224-CIL
+18/04477/CIL,11401.63,,received,LA2018/201B2,local-authority-eng:WIL,2020-04-15,2019-10-02,,/developer-agreement-transaction/local-authority-eng/WIL/18-04477-CIL
+18/04614/CIL,7290.79,,received,LA2019/010B,local-authority-eng:WIL,2020-04-15,2019-07-02,,/developer-agreement-transaction/local-authority-eng/WIL/18-04614-CIL
+18/04724/CIL,1673.05,,received,LA2020/018A,local-authority-eng:WIL,2020-04-15,2020-02-24,,/developer-agreement-transaction/local-authority-eng/WIL/18-04724-CIL
 18/04733/CIL,813.91,,received,LA2019/318B,local-authority-eng:WIL,2020-04-15,2019-12-05,,/developer-agreement-transaction/local-authority-eng/WIL/18-04733-CIL
 18/05700/CIL,2160.32,,received,LA2020/019B,local-authority-eng:WIL,2020-04-15,2020-03-04,,/developer-agreement-transaction/local-authority-eng/WIL/18-05700-CIL
 18/06072/CIL,994.27,,received,LA2019/187B,local-authority-eng:WIL,2020-04-15,2019-06-26,,/developer-agreement-transaction/local-authority-eng/WIL/18-06072-CIL
 18/06151/CIL,567.91,,received,LA2019/319A,local-authority-eng:WIL,2020-04-15,2019-12-06,,/developer-agreement-transaction/local-authority-eng/WIL/18-06151-CIL
-18/06336/CIL,295.8,,received,LA2019/078A,local-authority-eng:WIL,2020-04-15,2019-04-05,,/developer-agreement-transaction/local-authority-eng/WIL/18-06336-CIL
-18/06659/CIL,7653.1,,received,LA2019/071B,local-authority-eng:WIL,2020-04-15,2019-07-30,,/developer-agreement-transaction/local-authority-eng/WIL/18-06659-CIL
-18/06820/CIL,12160.38,,secured,LA2019/324B,local-authority-eng:WIL,2020-04-15,2019-12-12,,/developer-agreement-transaction/local-authority-eng/WIL/18-06820-CIL
-18/06977/CIL,1397.24,,received,LA2019/332A,local-authority-eng:WIL,2020-04-15,2019-12-18,,/developer-agreement-transaction/local-authority-eng/WIL/18-06977-CIL
-18/07055/CIL,9812.59,,received,LA2019/023B,local-authority-eng:WIL,2020-04-15,2019-09-09,,/developer-agreement-transaction/local-authority-eng/WIL/18-07055-CIL
+18/06336/CIL,887.4,,received,LA2019/078B,local-authority-eng:WIL,2020-04-15,2019-04-05,,/developer-agreement-transaction/local-authority-eng/WIL/18-06336-CIL
+18/06659/CIL,8928.62,,received,LA2019/071B,local-authority-eng:WIL,2020-04-15,2019-07-30,,/developer-agreement-transaction/local-authority-eng/WIL/18-06659-CIL
+18/06820/CIL,3474.39,,received,LA2019/324A,local-authority-eng:WIL,2020-04-15,2019-12-12,,/developer-agreement-transaction/local-authority-eng/WIL/18-06820-CIL
+18/06977/CIL,1197.62,,received,LA2019/332A,local-authority-eng:WIL,2020-04-15,2019-12-18,,/developer-agreement-transaction/local-authority-eng/WIL/18-06977-CIL
+18/07055/CIL,2803.6,,received,LA2019/023A,local-authority-eng:WIL,2020-04-15,2019-09-09,,/developer-agreement-transaction/local-authority-eng/WIL/18-07055-CIL
 18/07066/CIL,1142.15,,received,LA2019/155B,local-authority-eng:WIL,2020-04-15,2019-06-04,,/developer-agreement-transaction/local-authority-eng/WIL/18-07066-CIL
 18/07286/CIL,4222.48,,secured,LA2019/107B,local-authority-eng:WIL,2020-04-15,2019-05-08,,/developer-agreement-transaction/local-authority-eng/WIL/18-07286-CIL
-18/07692/CIL,17238.61,,secured,LA2019/166A,local-authority-eng:WIL,2020-04-15,2019-06-04,,/developer-agreement-transaction/local-authority-eng/WIL/18-07692-CIL
-18/07826/CIL,24280.74,,secured,LA2019/202A,local-authority-eng:WIL,2020-04-15,2019-08-08,,/developer-agreement-transaction/local-authority-eng/WIL/18-07826-CIL
-18/07838/CIL,449.02,,received,LA2019/239A,local-authority-eng:WIL,2020-04-15,2019-10-22,,/developer-agreement-transaction/local-authority-eng/WIL/18-07838-CIL
-18/08072/CIL,3501.92,,received,LA2019/013B,local-authority-eng:WIL,2020-04-15,2019-09-25,,/developer-agreement-transaction/local-authority-eng/WIL/18-08072-CIL
-18/08220/CIL,1606.21,,received,LA2019/065B,local-authority-eng:WIL,2020-04-15,2019-09-05,,/developer-agreement-transaction/local-authority-eng/WIL/18-08220-CIL
-18/08316/CIL,4887.23,,received,LA2019/114A,local-authority-eng:WIL,2020-04-15,2019-08-13,,/developer-agreement-transaction/local-authority-eng/WIL/18-08316-CIL
+18/07692/CIL,86193.07,,secured,LA2019/166B,local-authority-eng:WIL,2020-04-15,2019-06-04,,/developer-agreement-transaction/local-authority-eng/WIL/18-07692-CIL
+18/07826/CIL,20812.06,,received,LA2019/202A,local-authority-eng:WIL,2020-04-15,2019-08-08,,/developer-agreement-transaction/local-authority-eng/WIL/18-07826-CIL
+18/07838/CIL,2245.08,,received,LA2019/239B,local-authority-eng:WIL,2020-04-15,2019-10-22,,/developer-agreement-transaction/local-authority-eng/WIL/18-07838-CIL
+18/08072/CIL,700.39,,received,LA2019/013A,local-authority-eng:WIL,2020-04-15,2019-09-25,,/developer-agreement-transaction/local-authority-eng/WIL/18-08072-CIL
+18/08220/CIL,535.4,,received,LA2019/065A,local-authority-eng:WIL,2020-04-15,2019-09-05,,/developer-agreement-transaction/local-authority-eng/WIL/18-08220-CIL
+18/08316/CIL,9309.5,,received,LA2019/114A1,local-authority-eng:WIL,2020-04-15,2019-08-13,,/developer-agreement-transaction/local-authority-eng/WIL/18-08316-CIL
 18/08579/CIL,230.24,,received,LA2019/018B,local-authority-eng:WIL,2020-04-15,2019-09-04,,/developer-agreement-transaction/local-authority-eng/WIL/18-08579-CIL
-18/08737/CIL,2395.98,,received,LA2019/264B,local-authority-eng:WIL,2020-04-15,2020-01-13,,/developer-agreement-transaction/local-authority-eng/WIL/18-08737-CIL
+18/08737/CIL,2053.7,,received,LA2019/264B,local-authority-eng:WIL,2020-04-15,2020-01-13,,/developer-agreement-transaction/local-authority-eng/WIL/18-08737-CIL
 18/09769/CIL,144.28,,received,LA2019/088B,local-authority-eng:WIL,2020-04-15,2019-06-13,,/developer-agreement-transaction/local-authority-eng/WIL/18-09769-CIL
 18/09811/CIL,532.47,,received,LA2019/031B,local-authority-eng:WIL,2020-04-15,2019-10-16,,/developer-agreement-transaction/local-authority-eng/WIL/18-09811-CIL
 18/10011/CIL,250.7,,received,LA2019/047A,local-authority-eng:WIL,2020-04-15,2019-04-23,,/developer-agreement-transaction/local-authority-eng/WIL/18-10011-CIL
-18/11026/CIL,337.68,,received,LA2019/027B,local-authority-eng:WIL,2020-04-15,2019-10-15,,/developer-agreement-transaction/local-authority-eng/WIL/18-11026-CIL
-18/11985/CIL,17.15,,received,LA2019/140B,local-authority-eng:WIL,2020-04-15,2019-05-22,,/developer-agreement-transaction/local-authority-eng/WIL/18-11985-CIL
-18/12049/CIL,316.17,,received,LA2019/100A,local-authority-eng:WIL,2020-04-15,2019-06-26,,/developer-agreement-transaction/local-authority-eng/WIL/18-12049-CIL
-18/12062/CIL,43369.12,,secured,LA2019/232B,local-authority-eng:WIL,2020-04-15,2019-09-10,,/developer-agreement-transaction/local-authority-eng/WIL/18-12062-CIL
+18/11026/CIL,112.56,,received,LA2019/027A,local-authority-eng:WIL,2020-04-15,2019-10-15,,/developer-agreement-transaction/local-authority-eng/WIL/18-11026-CIL
+18/11985/CIL,5.72,,received,LA2019/140A,local-authority-eng:WIL,2020-04-15,2019-05-22,,/developer-agreement-transaction/local-authority-eng/WIL/18-11985-CIL
+18/12049/CIL,948.5,,received,LA2019/100B,local-authority-eng:WIL,2020-04-15,2019-06-26,,/developer-agreement-transaction/local-authority-eng/WIL/18-12049-CIL
+18/12062/CIL,14456.37,,secured,LA2019/232A,local-authority-eng:WIL,2020-04-15,2019-09-10,,/developer-agreement-transaction/local-authority-eng/WIL/18-12062-CIL
 18/12094/CIL,2392.42,,received,LA2019/108B,local-authority-eng:WIL,2020-04-15,2019-05-24,,/developer-agreement-transaction/local-authority-eng/WIL/18-12094-CIL
 18/12108/CIL,3365.76,,secured,LA2020/003A,local-authority-eng:WIL,2020-04-15,2020-01-15,,/developer-agreement-transaction/local-authority-eng/WIL/18-12108-CIL
-19/00735/CIL,33.63,,received,LA2019/118A,local-authority-eng:WIL,2020-04-15,2019-08-08,,/developer-agreement-transaction/local-authority-eng/WIL/19-00735-CIL
+19/00735/CIL,100.9,,received,LA2019/118B,local-authority-eng:WIL,2020-04-15,2019-08-08,,/developer-agreement-transaction/local-authority-eng/WIL/19-00735-CIL
 19/01123/CIL,976.94,,received,LA2019/149A,local-authority-eng:WIL,2020-04-15,2019-05-29,,/developer-agreement-transaction/local-authority-eng/WIL/19-01123-CIL
-19/01128/CIL,2537.82,,secured,LA2019/168B,local-authority-eng:WIL,2020-04-15,2020-01-31,,/developer-agreement-transaction/local-authority-eng/WIL/19-01128-CIL
+19/01128/CIL,845.94,,secured,LA2019/168A,local-authority-eng:WIL,2020-04-15,2020-01-31,,/developer-agreement-transaction/local-authority-eng/WIL/19-01128-CIL
 19/01211/CIL,343.07,,received,LA2019/091B,local-authority-eng:WIL,2020-04-15,2019-10-02,,/developer-agreement-transaction/local-authority-eng/WIL/19-01211-CIL
 19/01294/CIL,15.59,,received,LA2019/133A,local-authority-eng:WIL,2020-04-15,2019-05-15,,/developer-agreement-transaction/local-authority-eng/WIL/19-01294-CIL
 19/01603/CIL,8293.56,,received,LA2019/175B,local-authority-eng:WIL,2020-04-15,2019-07-05,,/developer-agreement-transaction/local-authority-eng/WIL/19-01603-CIL
 19/01606/CIL,7759.12,,received,LA2019/167B,local-authority-eng:WIL,2020-04-15,2019-12-03,,/developer-agreement-transaction/local-authority-eng/WIL/19-01606-CIL
-19/01740/CIL,1298.13,,received,LA2019/095B,local-authority-eng:WIL,2020-04-15,2019-06-13,,/developer-agreement-transaction/local-authority-eng/WIL/19-01740-CIL
+19/01740/CIL,259.63,,received,LA2019/095A,local-authority-eng:WIL,2020-04-15,2019-06-13,,/developer-agreement-transaction/local-authority-eng/WIL/19-01740-CIL
 19/01881/CIL,366.46,,received,LA2019/138A,local-authority-eng:WIL,2020-04-15,2020-01-15,,/developer-agreement-transaction/local-authority-eng/WIL/19-01881-CIL
-19/02537/CIL,7076.57,,received,LA2019/238A,local-authority-eng:WIL,2020-04-15,2019-08-29,,/developer-agreement-transaction/local-authority-eng/WIL/19-02537-CIL
-19/02545/CIL,725.16,,secured,LA2019/214A,local-authority-eng:WIL,2020-04-15,2019-08-01,,/developer-agreement-transaction/local-authority-eng/WIL/19-02545-CIL
-19/02839/CIL,10123.03,,received,LA2019/301B,local-authority-eng:WIL,2020-04-15,2019-12-03,,/developer-agreement-transaction/local-authority-eng/WIL/19-02839-CIL
-19/03112/CIL,6091.23,,received,LA2019/204B,local-authority-eng:WIL,2020-04-15,2019-08-21,,/developer-agreement-transaction/local-authority-eng/WIL/19-03112-CIL
-19/03853/CIL,327.27,,received,LA2019/199A,local-authority-eng:WIL,2020-04-15,2019-07-16,,/developer-agreement-transaction/local-authority-eng/WIL/19-03853-CIL
-19/03922/CIL,2337.89,,received,LA2019/216B,local-authority-eng:WIL,2020-04-15,2019-08-01,,/developer-agreement-transaction/local-authority-eng/WIL/19-03922-CIL
+19/02537/CIL,1415.25,,received,LA2019/238A,local-authority-eng:WIL,2020-04-15,2019-08-29,,/developer-agreement-transaction/local-authority-eng/WIL/19-02537-CIL
+19/02545/CIL,2175.49,,secured,LA2019/214B,local-authority-eng:WIL,2020-04-15,2019-08-01,,/developer-agreement-transaction/local-authority-eng/WIL/19-02545-CIL
+19/02839/CIL,11810.2,,received,LA2019/301B,local-authority-eng:WIL,2020-04-15,2019-12-03,,/developer-agreement-transaction/local-authority-eng/WIL/19-02839-CIL
+19/03112/CIL,1218.25,,received,LA2019/204A,local-authority-eng:WIL,2020-04-15,2019-08-21,,/developer-agreement-transaction/local-authority-eng/WIL/19-03112-CIL
+19/03853/CIL,981.81,,received,LA2019/199B,local-authority-eng:WIL,2020-04-15,2019-07-16,,/developer-agreement-transaction/local-authority-eng/WIL/19-03853-CIL
+19/03922/CIL,779.3,,received,LA2019/216A,local-authority-eng:WIL,2020-04-15,2019-08-01,,/developer-agreement-transaction/local-authority-eng/WIL/19-03922-CIL
 19/04805/CIL,635.69,,received,LA2019/240A,local-authority-eng:WIL,2020-04-15,2019-08-30,,/developer-agreement-transaction/local-authority-eng/WIL/19-04805-CIL
 19/04950/CIL,295.31,,received,LA2019/206A,local-authority-eng:WIL,2020-04-15,2019-07-18,,/developer-agreement-transaction/local-authority-eng/WIL/19-04950-CIL
-19/05156/CIL,3638.65,,received,LA2019/241A,local-authority-eng:WIL,2020-04-15,2019-09-02,,/developer-agreement-transaction/local-authority-eng/WIL/19-05156-CIL
-19/05392/CIL,2793.1,,received,LA2019/186A,local-authority-eng:WIL,2020-04-15,2019-06-26,,/developer-agreement-transaction/local-authority-eng/WIL/19-05392-CIL
-19/05531/CIL,168.17,,received,LA2019/247A,local-authority-eng:WIL,2020-04-15,2020-02-28,,/developer-agreement-transaction/local-authority-eng/WIL/19-05531-CIL
+19/05156/CIL,3118.85,,received,LA2019/241A,local-authority-eng:WIL,2020-04-15,2019-09-02,,/developer-agreement-transaction/local-authority-eng/WIL/19-05156-CIL
+19/05392/CIL,1197.04,,received,LA2019/186A,local-authority-eng:WIL,2020-04-15,2019-06-26,,/developer-agreement-transaction/local-authority-eng/WIL/19-05392-CIL
+19/05531/CIL,504.52,,received,LA2019/247B,local-authority-eng:WIL,2020-04-15,2020-02-28,,/developer-agreement-transaction/local-authority-eng/WIL/19-05531-CIL
 19/05965/CIL,13055.49,,secured,LA2019/325B,local-authority-eng:WIL,2020-04-15,2019-12-10,,/developer-agreement-transaction/local-authority-eng/WIL/19-05965-CIL
-19/06116/CIL,1309.92,,secured,LA2019/334B,local-authority-eng:WIL,2020-04-15,2019-12-20,,/developer-agreement-transaction/local-authority-eng/WIL/19-06116-CIL
-19/06395/CIL,2027.25,,received,LA2019/294B,local-authority-eng:WIL,2020-04-15,2019-12-02,,/developer-agreement-transaction/local-authority-eng/WIL/19-06395-CIL
-19/06509/CIL,153.03,,received,LA2020/011A,local-authority-eng:WIL,2020-04-15,2020-03-23,,/developer-agreement-transaction/local-authority-eng/WIL/19-06509-CIL
-19/06596/CIL,660.16,,received,LA2019/261A,local-authority-eng:WIL,2020-04-15,2019-10-03,,/developer-agreement-transaction/local-authority-eng/WIL/19-06596-CIL
-19/06612/CIL,98.76,,received,LA2019/288A,local-authority-eng:WIL,2020-04-15,2019-12-03,,/developer-agreement-transaction/local-authority-eng/WIL/19-06612-CIL
-19/07427/CIL,988.86,,secured,LA2019/280A,local-authority-eng:WIL,2020-04-15,2019-10-22,,/developer-agreement-transaction/local-authority-eng/WIL/19-07427-CIL
+19/06116/CIL,436.64,,secured,LA2019/334A,local-authority-eng:WIL,2020-04-15,2019-12-20,,/developer-agreement-transaction/local-authority-eng/WIL/19-06116-CIL
+19/06395/CIL,675.75,,received,LA2019/294A,local-authority-eng:WIL,2020-04-15,2019-12-02,,/developer-agreement-transaction/local-authority-eng/WIL/19-06395-CIL
+19/06509/CIL,459.09,,received,LA2020/011B,local-authority-eng:WIL,2020-04-15,2020-03-23,,/developer-agreement-transaction/local-authority-eng/WIL/19-06509-CIL
+19/06596/CIL,1980.47,,received,LA2019/261B,local-authority-eng:WIL,2020-04-15,2019-10-03,,/developer-agreement-transaction/local-authority-eng/WIL/19-06596-CIL
+19/06612/CIL,296.29,,received,LA2019/288B,local-authority-eng:WIL,2020-04-15,2019-12-03,,/developer-agreement-transaction/local-authority-eng/WIL/19-06612-CIL
+19/07427/CIL,3461,,secured,LA2019/280B,local-authority-eng:WIL,2020-04-15,2019-10-22,,/developer-agreement-transaction/local-authority-eng/WIL/19-07427-CIL
 19/08919/CIL,4257.23,,received,LA2019/320B,local-authority-eng:WIL,2020-04-15,2020-01-06,,/developer-agreement-transaction/local-authority-eng/WIL/19-08919-CIL
 19/10748/CIL,3300.48,,received,LA2020/010B,local-authority-eng:WIL,2020-04-15,2020-03-04,,/developer-agreement-transaction/local-authority-eng/WIL/19-10748-CIL
 20/00192/CIL,466.8,,secured,LA2020/029A,local-authority-eng:WIL,2020-04-15,2020-03-12,,/developer-agreement-transaction/local-authority-eng/WIL/20-00192-CIL
