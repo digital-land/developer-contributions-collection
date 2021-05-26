@@ -51,7 +51,6 @@ DATASET_DIRS=\
 	$(DATASET_DIR)
 endif
 
-
 define run-pipeline =
 	mkdir -p $(@D) $(ISSUE_DIR)$(notdir $(@D))
 	digital-land --pipeline-name $(notdir $(@D)) $(DIGITAL_LAND_FLAGS) pipeline --issue-dir $(ISSUE_DIR)$(notdir $(@D)) $(PIPELINE_FLAGS) $< $@
@@ -74,8 +73,17 @@ collection/pipeline.mk: collection/resource.csv collection/source.csv
 second-pass::
 	@$(MAKE) --no-print-directory transformed dataset
 
+GDAL := $(shell command -v ogr2ogr 2> /dev/null)
+UNAME := $(shell uname)
+
 init::
 	pip install csvkit
+ifndef GDAL
+ifeq ($(UNAME),Darwin)
+$(error GDAL tools not found in PATH)
+endif
+	sudo apt-get install gdal-bin
+endif
 
 clobber::
 	rm -rf $(TRANSFORMED_DIR) $(ISSUE_DIR) $(DATASET_DIR)
