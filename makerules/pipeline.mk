@@ -94,10 +94,10 @@ clean::
 # local copies of the organisation dataset needed by harmonise
 init::
 	@mkdir -p $(CACHE_DIR)
-	curl -qs "https://raw.githubusercontent.com/digital-land/organisation-dataset/main/collection/organisation.csv" > $(CACHE_DIR)organisation.csv
+	curl -qfs "https://raw.githubusercontent.com/digital-land/organisation-dataset/main/collection/organisation.csv" > $(CACHE_DIR)organisation.csv
 
 makerules::
-	curl -qsL '$(SOURCE_URL)/makerules/main/pipeline.mk' > makerules/pipeline.mk
+	curl -qfsL '$(SOURCE_URL)/makerules/main/pipeline.mk' > makerules/pipeline.mk
 
 commit-dataset::
 	mkdir -p $(DATASET_DIRS)
