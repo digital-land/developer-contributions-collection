@@ -103,3 +103,15 @@ commit-dataset::
 	mkdir -p $(DATASET_DIRS)
 	git add $(DATASET_DIRS)
 	git diff --quiet && git diff --staged --quiet || (git commit -m "Data $(shell date +%F)"; git push origin $(BRANCH))
+
+fetch-s3::
+	aws s3 sync s3://collection-dataset/special-area-of-conservation-collection/$(RESOURCE_DIR) $(RESOURCE_DIR)
+	aws s3 sync s3://collection-dataset/special-area-of-conservation-collection/$(ISSUE_DIR) $(ISSUE_DIR)
+	aws s3 sync s3://collection-dataset/special-area-of-conservation-collection/$(TRANSFORMED_DIR) $(TRANSFORMED_DIR)
+	aws s3 sync s3://collection-dataset/special-area-of-conservation-collection/$(DATASET_DIR) $(DATASET_DIR)
+
+push-s3::
+	aws s3 sync $(RESOURCE_DIR) s3://collection-dataset/special-area-of-conservation-collection/$(RESOURCE_DIR)
+	aws s3 sync $(TRANSFORMED_DIR) s3://collection-dataset/special-area-of-conservation-collection/$(TRANSFORMED_DIR)
+	aws s3 sync $(ISSUE_DIR) s3://collection-dataset/special-area-of-conservation-collection/$(ISSUE_DIR)
+	aws s3 sync $(DATASET_DIR) s3://collection-dataset/special-area-of-conservation-collection/$(DATASET_DIR)
