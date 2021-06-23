@@ -115,3 +115,7 @@ push-s3::
 	aws s3 sync $(TRANSFORMED_DIR) s3://collection-dataset/$(REPOSITORY)/$(TRANSFORMED_DIR)
 	aws s3 sync $(ISSUE_DIR) s3://collection-dataset/$(REPOSITORY)/$(ISSUE_DIR)
 	aws s3 sync $(DATASET_DIR) s3://collection-dataset/$(REPOSITORY)/$(DATASET_DIR)
+	aws s3 cp $(COLLECTION_DIR)/log.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
+	aws s3 cp $(COLLECTION_DIR)/resource.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
+	aws s3 cp $(COLLECTION_DIR)/source.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
+	aws s3 cp $(COLLECTION_DIR)/endpoint.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
