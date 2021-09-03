@@ -6,7 +6,7 @@ import csv
 source = {}
 
 # assumes there's one set of pipelines per collection ..
-pipelines = {}
+pipelines = {"developer-contribution-agreement", "developer-contribution-transaction"}
 
 fieldnames = ["attribution", "collection", "documentation-url", "endpoint", "licence", "organisation", "pipelines", "entry-date", "start-date", "end-date"]
 
@@ -23,11 +23,12 @@ for row in csv.DictReader(open("var/cache/organisation.csv", newline="")):
     if organisation.split(":")[0] in ["local-authority-eng", "development-corporation", "national-park"]:
         if row["local-authority-type"] not in ["CTY", "COMB"]:
             for collection in source:
-                if organisation not in source[collection]:
-                    o = {}
-                    o["organisation"] = organisation
-                    o["collection"] = collection
-                    o["pipelines"] = pipelines[collection]
-                    o["entry-date"] = datetime.utcnow().isoformat()[:-3]+'Z'
-                    o["end-date"] = row["end-date"]
-                    w.writerow(o)
+                if collection not in ["contribution-purpose", "developer-agreement-type", "contribution-funding-status"]:
+                    if organisation not in source[collection]:
+                        o = {}
+                        o["organisation"] = organisation
+                        o["collection"] = collection
+                        o["pipelines"] = pipelines[collection]
+                        o["entry-date"] = datetime.utcnow().isoformat()[:-3]+'Z'
+                        o["end-date"] = row["end-date"]
+                        w.writerow(o)
