@@ -1,6 +1,6 @@
 attribution,collection,documentation-url,endpoint,licence,organisation,pipelines,entry-date,start-date,end-date
-,developer-contributions,,607eb93bad47b5d4ea3364ec0fe4c4ce09d9e83674cceb559ccd0faf40c935db,,,contribution-funding-status,2021-03-25,,
-,developer-contributions,,05762a3af6634daaa28f3f0c1480b40db9d965c5b798361602ee9b86d4a84490,,,contribution-purpose,2021-03-25,,
+crown-copyright,developer-contributions,,607eb93bad47b5d4ea3364ec0fe4c4ce09d9e83674cceb559ccd0faf40c935db,ogl3,government-organisation:D4,contribution-funding-status,2021-03-25,,
+crown-copyright,developer-contributions,,05762a3af6634daaa28f3f0c1480b40db9d965c5b798361602ee9b86d4a84490,ogl3,government-organisation:D4,contribution-purpose,2021-03-25,,
 ,developer-contributions,https://www.adur-worthing.gov.uk/planning-policy/adur/adur-developer-contributions/developer-contributions-data-adur/,675f65fd59ba990515e78f92aaf5394fa9442c2a6af1e4f99882ff953279f474,,local-authority-eng:ADU,developer-agreement,2020-12-21,,
 ,developer-contributions,https://www.ambervalley.gov.uk/planningobligations,2949face1bcd597baade64dbc4dcda33805a4ea2b8b89105d298013932f2be3d,,local-authority-eng:AMB,developer-agreement,2021-01-11,,
 ,developer-contributions,https://www.ashford.gov.uk/planning-and-development/planning-policy/developer-contributions/,23700b00504d0ebbd20d642feb6c18a8168192ef932060ac148c612ae385a8e0,,local-authority-eng:ASF,developer-agreement,2020-12-22,,
@@ -130,7 +130,7 @@ attribution,collection,documentation-url,endpoint,licence,organisation,pipelines
 ,developer-contributions,https://www.wiltshire.gov.uk/article/2435/Community-Infrastructure-Levy,44a3e67ee571b72e6ce04abdd865301d823a189bc28180fc3ed32e2918558dfb,,local-authority-eng:WIL,developer-agreement-transaction,2021-01-04,,
 ,developer-contributions,https://www.adur-worthing.gov.uk/planning-policy/worthing/worthing-developer-contributions/developer-contributions-data-worthing/,88737f7c21c72420b9420309ceab7f5424cb9d959a9e4b3decb3654bc6a90ba1,,local-authority-eng:WOT,developer-agreement-transaction,2020-12-21,,
 ,developer-contributions,https://www.newforestnpa.gov.uk/planning/infrastructure-funding-statements/,6f317f7a4ab4c81d06eaa7e6b8551f8d0ad08a8385bea5a86f03475caa0b9fc3,,national-park-authority:Q72617158,developer-agreement-transaction,2020-12-18,,
-,developer-agreement-type,,70d55954062f43e5c3b725f3e67f97d72b9c61e3cec53e80b54f522f7ccc8d75,,,developer-agreement-type,2021-03-25,,
+crown-copyright,developer-agreement-type,,70d55954062f43e5c3b725f3e67f97d72b9c61e3cec53e80b54f522f7ccc8d75,ogl3,government-organisation:D4,developer-agreement-type,2021-03-25,,
 ,developer-contributions,,,,development-corporation:Q20648596,developer-agreement-transaction,2021-08-31T16:31:06.782Z,,
 ,developer-contributions,,,,development-corporation:Q4916714,developer-agreement-transaction,2021-08-31T16:31:06.782Z,,1998-04-03
 ,developer-contributions,,,,development-corporation:Q6670544,developer-agreement-transaction,2021-08-31T16:31:06.782Z,,
