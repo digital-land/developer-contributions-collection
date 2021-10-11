@@ -2,3 +2,24 @@ pipeline,resource,field,pattern,value
 developer-agreement,,organisation,national-park:10,national-park-authority:10
 developer-agreement-contribution,,organisation,national-park:10,national-park-authority:10
 developer-agreement-type,,organisation,national-park:10,national-park-authority:10
+developer-agreement,,organisation,local-authority:ash,local-authority-eng:ASH
+developer-agreement-contribution,,organisation,local-authority:ash,local-authority-eng:ASH
+developer-agreement-type,,organisation,local-authority:ash,local-authority-eng:ASH
+developer-agreement,,organisation,local-authority-eng:wot,local-authority-eng:WOT
+developer-agreement-contribution,,organisation,local-authority-eng:wot,local-authority-eng:WOT
+developer-agreement-type,,organisation,local-authority-eng:wot,local-authority-eng:WOT
+developer-agreement,,organisation,developer-agreement:TBMC,local-authority-eng:TON
+developer-agreement-contribution,,organisation,developer-agreement:TBMC,local-authority-eng:TON
+developer-agreement-type,,organisation,developer-agreement:TBMC,local-authority-eng:TON
+developer-agreement,,organisation,developer-agreement:SLF,local-authority-eng:SLF
+developer-agreement-contribution,,organisation,developer-agreement:SLF,local-authority-eng:SLF
+developer-agreement-type,,organisation,developer-agreement:SLF,local-authority-eng:SLF
+developer-agreement,,organisation,GRE,local-authority-eng:GRE
+developer-agreement-contribution,,organisation,GRE,local-authority-eng:GRE
+developer-agreement-type,,organisation,GRE,local-authority-eng:GRE
+developer-agreement,,organisation,developer-agreement:ECA,local-authority-eng:ECA
+developer-agreement-contribution,,organisation,developer-agreement:ECA,local-authority-eng:ECA
+developer-agreement-type,,organisation,developer-agreement:ECA,local-authority-eng:ECA
+developer-agreement,,organisation,developer-agreement:Boston Borough Council,local-authority-eng:BOT
+developer-agreement-contribution,,organisation,developer-agreement:Boston Borough Council,local-authority-eng:BOT
+developer-agreement-type,,organisation,developer-agreement:Boston Borough Council,local-authority-eng:BOT

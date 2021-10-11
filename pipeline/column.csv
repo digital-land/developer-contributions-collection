@@ -1,1 +1,11 @@
 pipeline,resource,pattern,value
+developer-agreement,,Developer Agreement,developer-agreement
+developer-agreement,,Created,entry-date
+developer-agreement,,Start Date,start-date
+developer-agreement,,End Date,end-date
+developer-agreement,,Planning Application,planning-application
+developer-agreement,,Ext Document-URL,document-url
+developer-agreement,,Developer Agreement Type,developer-agreement-type
+developer-agreement,,"""Developer-agreeement""",developer-agreement
+developer-agreement,,"""start-date""",start-date
+developer-agreement,,"""planning-application""",planning-application
