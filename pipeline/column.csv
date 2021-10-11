@@ -1,11 +1,36 @@
 pipeline,resource,pattern,value
+developer-agreement,,Developer-Agreement,developer-agreement
 developer-agreement,,Developer Agreement,developer-agreement
+developer-agreement,,Organisation,organisation
 developer-agreement,,Created,entry-date
 developer-agreement,,Start Date,start-date
 developer-agreement,,End Date,end-date
 developer-agreement,,Planning Application,planning-application
+developer-agreement,,Document URL,document-url
 developer-agreement,,Ext Document-URL,document-url
+developer-agreement,,Agreement Type,developer-agreement-type
 developer-agreement,,Developer Agreement Type,developer-agreement-type
 developer-agreement,,"""Developer-agreeement""",developer-agreement
 developer-agreement,,"""start-date""",start-date
 developer-agreement,,"""planning-application""",planning-application
+developer-agreement,,Planning Application(s),planning-application
+developer-agreement-contribution,,Developer Agreement Contribution,developer-agreement-contribution
+developer-agreement-contribution,,Developer Agreement,developer-agreement
+developer-agreement-contribution,,Contribution Purpose,contribution-purpose
+developer-agreement-contribution,,Contribution-Purpose - Category,contribution-purpose
+developer-agreement-contribution,,Amount,amount
+developer-agreement-contribution,,housing units,units
+developer-agreement-contribution,,Units Achieved,units
+developer-agreement-contribution,,Created,entry-date
+developer-agreement-contribution,,Start Date,start-date
+developer-agreement-contribution,,End Date,end-date
+developer-agreement-contribution,,amount (£),amount
+developer-agreement-transaction,,Developer Agreement Transactions(1),developer-agreement-transaction
+developer-agreement-transaction,,Contribution-funding Status,contribution-funding-status
+developer-agreement-transaction,,Amount,amount
+developer-agreement-transaction,,Units,units
+developer-agreement-transaction,,Units Achieved,units
+developer-agreement-transaction,,units (non-financial contribution ),units
+developer-agreement-transaction,,Created,entry-date
+developer-agreement-transaction,,Start Date,start-date
+developer-agreement-transaction,,End Date,end-date

@@ -1,25 +1,46 @@
 pipeline,resource,field,pattern,value
-developer-agreement,,organisation,national-park:10,national-park-authority:10
-developer-agreement-contribution,,organisation,national-park:10,national-park-authority:10
-developer-agreement-type,,organisation,national-park:10,national-park-authority:10
-developer-agreement,,organisation,local-authority:ash,local-authority-eng:ASH
-developer-agreement-contribution,,organisation,local-authority:ash,local-authority-eng:ASH
-developer-agreement-type,,organisation,local-authority:ash,local-authority-eng:ASH
-developer-agreement,,organisation,local-authority-eng:wot,local-authority-eng:WOT
-developer-agreement-contribution,,organisation,local-authority-eng:wot,local-authority-eng:WOT
-developer-agreement-type,,organisation,local-authority-eng:wot,local-authority-eng:WOT
-developer-agreement,,organisation,developer-agreement:TBMC,local-authority-eng:TON
-developer-agreement-contribution,,organisation,developer-agreement:TBMC,local-authority-eng:TON
-developer-agreement-type,,organisation,developer-agreement:TBMC,local-authority-eng:TON
-developer-agreement,,organisation,developer-agreement:SLF,local-authority-eng:SLF
-developer-agreement-contribution,,organisation,developer-agreement:SLF,local-authority-eng:SLF
-developer-agreement-type,,organisation,developer-agreement:SLF,local-authority-eng:SLF
-developer-agreement,,organisation,GRE,local-authority-eng:GRE
-developer-agreement-contribution,,organisation,GRE,local-authority-eng:GRE
-developer-agreement-type,,organisation,GRE,local-authority-eng:GRE
-developer-agreement,,organisation,developer-agreement:ECA,local-authority-eng:ECA
-developer-agreement-contribution,,organisation,developer-agreement:ECA,local-authority-eng:ECA
-developer-agreement-type,,organisation,developer-agreement:ECA,local-authority-eng:ECA
-developer-agreement,,organisation,developer-agreement:Boston Borough Council,local-authority-eng:BOT
 developer-agreement-contribution,,organisation,developer-agreement:Boston Borough Council,local-authority-eng:BOT
+developer-agreement-contribution,,organisation,developer-agreement:ECA,local-authority-eng:ECA
+developer-agreement-contribution,,organisation,developer-agreement:SLF,local-authority-eng:SLF
+developer-agreement-contribution,,organisation,developer-agreement:TBMC,local-authority-eng:TON
+developer-agreement-contribution,,organisation,GRE,local-authority-eng:GRE
+developer-agreement-contribution,,organisation,local-authority:ash,local-authority-eng:ASH
+developer-agreement-contribution,,organisation,local-authority-eng:wot,local-authority-eng:WOT
+developer-agreement-contribution,,organisation,national-park:10,national-park-authority:10
+developer-agreement-contribution,,contribution-purpose,green-infastructure,green-infrastructure
+developer-agreement,,organisation,developer-agreement:Boston Borough Council,local-authority-eng:BOT
+developer-agreement,,organisation,developer-agreement:ECA,local-authority-eng:ECA
+developer-agreement,,organisation,developer-agreement:SLF,local-authority-eng:SLF
+developer-agreement,,organisation,developer-agreement:TBMC,local-authority-eng:TON
+developer-agreement,,organisation,GRE,local-authority-eng:GRE
+developer-agreement,,organisation,local-authority:ash,local-authority-eng:ASH
+developer-agreement,,organisation,local-authority-eng:wot,local-authority-eng:WOT
+developer-agreement,,organisation,national-park:10,national-park-authority:10
+developer-agreement-transaction,,contribution-funding-status,Allocated,allocated
+developer-agreement-transaction,,contribution-funding-status,Invoice raised,
+developer-agreement-transaction,,contribution-funding-status,Received,received
+developer-agreement-transaction,,contribution-funding-status,ALLOCATED:.*,allocated
+developer-agreement-transaction,,contribution-funding-status,SPENT:,spent
+developer-agreement-transaction,,contribution-funding-status,SECURED:,secured
+developer-agreement-transaction,,contribution-funding-status,RECEIVED:,received
+developer-agreement-transaction,,contribution-funding-status,Spent,spent
+developer-agreement-transaction,,contribution-funding-status,Secured,secured
 developer-agreement-type,,organisation,developer-agreement:Boston Borough Council,local-authority-eng:BOT
+developer-agreement-type,,organisation,developer-agreement:ECA,local-authority-eng:ECA
+developer-agreement-type,,organisation,developer-agreement:SLF,local-authority-eng:SLF
+developer-agreement-type,,organisation,developer-agreement:TBMC,local-authority-eng:TON
+developer-agreement-type,,organisation,GRE,local-authority-eng:GRE
+developer-agreement-type,,organisation,local-authority:ash,local-authority-eng:ASH
+developer-agreement-type,,organisation,local-authority-eng:wot,local-authority-eng:WOT
+developer-agreement-type,,organisation,national-park:10,national-park-authority:10
+developer-agreement,,developer-agreement-type,CIL,community-infrastructure-levy
+developer-agreement,,developer-agreement-type,Section-106,section-106
+developer-agreement,,developer-agreement-type,S106,section-106
+developer-agreement,,developer-agreement-type,Section 106 Agreement,section-106
+developer-agreement,,developer-agreement-type,Section 106 agreement,section-106
+developer-agreement,,developer-agreement-type,Section -106,section-106
+developer-agreement,,developer-agreement-type,section -106,section-106
+developer-agreement,,developer-agreement-type,s106 agreement,section-106
+developer-agreement,,developer-agreement-type,Deed of Variation,deed-of-variation
+developer-agreement,,developer-agreement-type,Deed of variation,deed-of-variation
+developer-agreement,,developer-agreement-type,DOV,deed-of-variation
