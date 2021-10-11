@@ -1,1 +1,4 @@
 pipeline,resource,field,pattern,value
+developer-agreement,,organisation,national-park:10,national-park-authority:10
+developer-agreement-contribution,,organisation,national-park:10,national-park-authority:10
+developer-agreement-type,,organisation,national-park:10,national-park-authority:10
