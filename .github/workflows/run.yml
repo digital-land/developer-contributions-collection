@@ -48,6 +48,8 @@ jobs:
       run: make init
     - name: Fetch dataset files from S3
       run: make fetch-s3
+    - name: Clobber the transformed files
+      run: make clobber
     - name: Run the collector
       run: make collect
     - name: Commit collection
