@@ -20,7 +20,7 @@ developer-agreement-contribution,,organisation,TBMC,local-authority-eng:TON
 developer-agreement-contribution,,organisation,GRE,local-authority-eng:GRE
 developer-agreement-contribution,,organisation,local-authority:ash,local-authority-eng:ASH
 developer-agreement-contribution,,organisation,local-authority-eng:wot,local-authority-eng:WOT
-developer-agreement-contribution,,organisation,national-park:10,national-park-authority:10
+developer-agreement-contribution,,organisation,national-park:10,national-park-authority:Q20198711
 developer-agreement,,developer-agreement-type,CIL,community-infrastructure-levy
 developer-agreement,,developer-agreement-type,Deed of variation,deed-of-variation
 developer-agreement,,developer-agreement-type,Deed of Variation,deed-of-variation
@@ -37,9 +37,10 @@ developer-agreement,,organisation,ECA,local-authority-eng:ECA
 developer-agreement,,organisation,SLF,local-authority-eng:SLF
 developer-agreement,,organisation,TBMC,local-authority-eng:TON
 developer-agreement,,organisation,GRE,local-authority-eng:GRE
+developer-agreement,,organisation,HRT,local-authority-eng:HRT
 developer-agreement,,organisation,local-authority:ash,local-authority-eng:ASH
 developer-agreement,,organisation,local-authority-eng:wot,local-authority-eng:WOT
-developer-agreement,,organisation,national-park:10,national-park-authority:10
+developer-agreement,,organisation,national-park:10,national-park-authority:Q20198711
 developer-agreement-transaction,,contribution-funding-status,Allocated,allocated
 developer-agreement-transaction,,contribution-funding-status,ALLOCATED:.*,allocated
 developer-agreement-transaction,,contribution-funding-status,Invoice raised,
@@ -56,4 +57,4 @@ developer-agreement-transaction,,organisation,TBMC,local-authority-eng:TON
 developer-agreement-transaction,,organisation,GRE,local-authority-eng:GRE
 developer-agreement-transaction,,organisation,local-authority:ash,local-authority-eng:ASH
 developer-agreement-transaction,,organisation,local-authority-eng:wot,local-authority-eng:WOT
-developer-agreement-transaction,,organisation,national-park:10,national-park-authority:10
+developer-agreement-transaction,,organisation,national-park:10,national-park-authority:Q20198711
