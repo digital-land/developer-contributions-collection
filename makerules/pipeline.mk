@@ -118,6 +118,9 @@ push-collection-s3::
 	aws s3 cp $(COLLECTION_DIR)/endpoint.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
 
 push-dataset-s3::
+	@mkdir -p $(TRANSFORMED_DIR)
 	aws s3 sync $(TRANSFORMED_DIR) s3://collection-dataset/$(REPOSITORY)/$(TRANSFORMED_DIR)
+	@mkdir -p $(ISSUE_DIR)
 	aws s3 sync $(ISSUE_DIR) s3://collection-dataset/$(REPOSITORY)/$(ISSUE_DIR)
+	@mkdir -p $(DATASET_DIR)
 	aws s3 sync $(DATASET_DIR) s3://collection-dataset/$(REPOSITORY)/$(DATASET_DIR)
