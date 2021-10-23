@@ -124,3 +124,7 @@ push-dataset-s3::
 	aws s3 sync $(ISSUE_DIR) s3://collection-dataset/$(REPOSITORY)/$(ISSUE_DIR)
 	@mkdir -p $(DATASET_DIR)
 	aws s3 sync $(DATASET_DIR) s3://collection-dataset/$(REPOSITORY)/$(DATASET_DIR)
+
+pipeline-run::
+	aws batch submit-job --job-name $(REPOSITORY)-$(shell date '+%Y-%m-%d-%H-%M-%S') --job-queue dl-batch-queue --job-definition dl-batch-def --container-overrides '{"environment": [{"name":"BATCH_FILE_S3_URL","value":"s3://dl-batch-scripts/pipeline_run.sh"}, {"name" : "DATASET_COLLECTION","value" : "$(REPOSITORY)"}]}'
+
