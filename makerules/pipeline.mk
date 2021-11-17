@@ -105,26 +105,26 @@ commit-dataset::
 	git diff --quiet && git diff --staged --quiet || (git commit -m "Data $(shell date +%F)"; git push origin $(BRANCH))
 
 fetch-s3::
-	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(RESOURCE_DIR) $(RESOURCE_DIR)
-	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(ISSUE_DIR) $(ISSUE_DIR)
-	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(TRANSFORMED_DIR) $(TRANSFORMED_DIR)
-	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(DATASET_DIR) $(DATASET_DIR)
+	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(RESOURCE_DIR) $(RESOURCE_DIR) --no-progress
+	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(ISSUE_DIR) $(ISSUE_DIR) --no-progress
+	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(TRANSFORMED_DIR) $(TRANSFORMED_DIR) --no-progress
+	aws s3 sync s3://collection-dataset/$(REPOSITORY)/$(DATASET_DIR) $(DATASET_DIR) --no-progress
 	
 push-collection-s3::
-	aws s3 sync $(RESOURCE_DIR) s3://collection-dataset/$(REPOSITORY)/$(RESOURCE_DIR)
-	aws s3 cp $(COLLECTION_DIR)/log.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
-	aws s3 cp $(COLLECTION_DIR)/resource.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
-	aws s3 cp $(COLLECTION_DIR)/source.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
-	aws s3 cp $(COLLECTION_DIR)/endpoint.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR)
+	aws s3 sync $(RESOURCE_DIR) s3://collection-dataset/$(REPOSITORY)/$(RESOURCE_DIR) --no-progress
+	aws s3 cp $(COLLECTION_DIR)/log.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR) --no-progress
+	aws s3 cp $(COLLECTION_DIR)/resource.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR) --no-progress
+	aws s3 cp $(COLLECTION_DIR)/source.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR) --no-progress
+	aws s3 cp $(COLLECTION_DIR)/endpoint.csv s3://collection-dataset/$(REPOSITORY)/$(COLLECTION_DIR) --no-progress
 
 push-dataset-s3::
 	@mkdir -p $(TRANSFORMED_DIR)
-	aws s3 sync $(TRANSFORMED_DIR) s3://collection-dataset/$(REPOSITORY)/$(TRANSFORMED_DIR)
+	aws s3 sync $(TRANSFORMED_DIR) s3://collection-dataset/$(REPOSITORY)/$(TRANSFORMED_DIR) --no-progress
 	@mkdir -p $(ISSUE_DIR)
-	aws s3 sync $(ISSUE_DIR) s3://collection-dataset/$(REPOSITORY)/$(ISSUE_DIR)
+	aws s3 sync $(ISSUE_DIR) s3://collection-dataset/$(REPOSITORY)/$(ISSUE_DIR) --no-progress
 	@mkdir -p $(DATASET_DIR)
-	aws s3 sync $(DATASET_DIR) s3://collection-dataset/$(REPOSITORY)/$(DATASET_DIR)
+	aws s3 sync $(DATASET_DIR) s3://collection-dataset/$(REPOSITORY)/$(DATASET_DIR) --no-progress
 
 pipeline-run::
-	aws batch submit-job --job-name $(REPOSITORY)-$(shell date '+%Y-%m-%d-%H-%M-%S') --job-queue dl-batch-queue --job-definition dl-batch-def --container-overrides '{"environment": [{"name":"BATCH_FILE_S3_URL","value":"s3://dl-batch-scripts/pipeline_run.sh"}, {"name" : "DATASET_COLLECTION","value" : "$(REPOSITORY)"}]}'
+	aws batch submit-job --job-name $(REPOSITORY)-$(shell date '+%Y-%m-%d-%H-%M-%S') --job-queue dl-batch-queue --job-definition dl-batch-def --container-overrides '{"environment": [{"name":"BATCH_FILE_S3_URL","value":"s3://dl-batch-scripts/pipeline_run.sh"}, {"name" : "REPOSITORY","value" : "$(REPOSITORY)"}]}'
 
