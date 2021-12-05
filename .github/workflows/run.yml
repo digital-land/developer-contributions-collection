@@ -1,12 +1,5 @@
 name: Run pipeline
 on:
-  push:
-    paths-ignore:
-    - collection/resource/**
-    - collection/log/**
-    - index/**
-    - var/**
-    branches: main
   schedule:
   - cron: 0 0 * * *
   workflow_dispatch: null
