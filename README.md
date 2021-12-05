@@ -1,10 +1,16 @@
-# Developer Contributions collection
+# developer-contributions collection
 
-[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/developer-contributions-collection/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/developer-contributions/blob/main/LICENSE)
+[![Run pipeline](https://github.com/digital-land/developer-contributions-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/developer-contributions-collection/actions/workflows/run.yml)
 
-A collection of Developer Contributions collected from various sources.
+The data and pipeline to build the following datasets:
 
-The national dataset is in a format consistent with other Digital Land datasets as defined by the [ZZZ schema](https://digital-land.github.io/specification/schema/ZZZ/).
+* [developer-agreement](https://www.digital-land.info/dataset/developer-agreement)
+* [developer-agreement-contribution](https://www.digital-land.info/dataset/developer-agreement-contribution)
+* [developer-agreement-transaction](https://www.digital-land.info/dataset/developer-agreement-transaction)
+* [developer-agreement-type](https://www.digital-land.info/dataset/developer-agreement-type)
+* [contribution-purpose](https://www.digital-land.info/dataset/contribution-purpose)
+* [contribution-funding-status](https://www.digital-land.info/dataset/contribution-funding-status)
 
 # Collection
 
@@ -23,11 +29,7 @@ We recommend working in [virtual environment](http://docs.python-guide.org/en/la
     $ make init
     $ make collect
 
-# Nightly collection
-
-The collection is [updated nightly](https://github.com/digital-land/ZZZ/actions) by the [GitHub Action](.github/workflows/run.yml).
-
-# Building the national dataset
+# Building the datasets
 
 The collected files can then be converted into a national dataset:
 
