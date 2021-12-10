@@ -82,6 +82,7 @@ DEVELOPER_AGREEMENT_TRANSFORMED_FILES=\
     $(TRANSFORMED_DIR)developer-agreement/9428105c74c6dcc6019d1999f6ec5a6785f47993292c7f15cb24226801b95ad6.csv\
     $(TRANSFORMED_DIR)developer-agreement/94926165e72223677e23186759d278b629615bfd8db0d9e65f3aeeea2b5766fd.csv\
     $(TRANSFORMED_DIR)developer-agreement/954f1388c7fc19d02fbad76bb98a7e9c57379b95c0b3bdf4e0cf854129cf839f.csv\
+    $(TRANSFORMED_DIR)developer-agreement/956b3e56233197ab07c0b506b997315a3f4953ee93ebc5bd06b60e0b92210540.csv\
     $(TRANSFORMED_DIR)developer-agreement/969c98b4e9472b0e945e96b62d03b1e99d137b57840140b1a745fbf9a8b74647.csv\
     $(TRANSFORMED_DIR)developer-agreement/9a85055294c6d5217adf020b1d07ae91d7fe0e121f2bd95e090b91684d93a7c0.csv\
     $(TRANSFORMED_DIR)developer-agreement/9b68d20610d3c78c6ea78eb5f0b5b190e603df4f9b9c332f0afb64299916329f.csv\
@@ -105,6 +106,7 @@ DEVELOPER_AGREEMENT_TRANSFORMED_FILES=\
     $(TRANSFORMED_DIR)developer-agreement/d52797a161fe2c232339532d8769dc202d3162bb05af1acc75c07537fd99730d.csv\
     $(TRANSFORMED_DIR)developer-agreement/d5c7e4f72604f412c93621c00f39247efef6028a7ecb485fa44fdc1b76d37510.csv\
     $(TRANSFORMED_DIR)developer-agreement/d878d9d3642dd86d68af421adad7046a2b7ba8d9660861014aa0c85b2c29fda2.csv\
+    $(TRANSFORMED_DIR)developer-agreement/dfa83b275b34eea0974a743d0584d993111214b1b72b4895abecff988ac6530a.csv\
     $(TRANSFORMED_DIR)developer-agreement/e029cb76cbe7feac0697ba07b8e2a25b00c05cf3919da4c4f72b4d8670104f17.csv\
     $(TRANSFORMED_DIR)developer-agreement/e39154ec88224e0a52e16d369c0a184511f7ce2a74053c7b091d832072572683.csv\
     $(TRANSFORMED_DIR)developer-agreement/e751743d1851db003d2904cffc218c3125c3fc2b57cd1efa4adba8001306eb85.csv\
@@ -274,6 +276,9 @@ $(TRANSFORMED_DIR)developer-agreement/94926165e72223677e23186759d278b629615bfd8d
 $(TRANSFORMED_DIR)developer-agreement/954f1388c7fc19d02fbad76bb98a7e9c57379b95c0b3bdf4e0cf854129cf839f.csv: collection/resource/954f1388c7fc19d02fbad76bb98a7e9c57379b95c0b3bdf4e0cf854129cf839f
 	$(run-pipeline)
 
+$(TRANSFORMED_DIR)developer-agreement/956b3e56233197ab07c0b506b997315a3f4953ee93ebc5bd06b60e0b92210540.csv: collection/resource/956b3e56233197ab07c0b506b997315a3f4953ee93ebc5bd06b60e0b92210540
+	$(run-pipeline)
+
 $(TRANSFORMED_DIR)developer-agreement/969c98b4e9472b0e945e96b62d03b1e99d137b57840140b1a745fbf9a8b74647.csv: collection/resource/969c98b4e9472b0e945e96b62d03b1e99d137b57840140b1a745fbf9a8b74647
 	$(run-pipeline)
 
@@ -341,6 +346,9 @@ $(TRANSFORMED_DIR)developer-agreement/d5c7e4f72604f412c93621c00f39247efef6028a7e
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)developer-agreement/d878d9d3642dd86d68af421adad7046a2b7ba8d9660861014aa0c85b2c29fda2.csv: collection/resource/d878d9d3642dd86d68af421adad7046a2b7ba8d9660861014aa0c85b2c29fda2
+	$(run-pipeline)
+
+$(TRANSFORMED_DIR)developer-agreement/dfa83b275b34eea0974a743d0584d993111214b1b72b4895abecff988ac6530a.csv: collection/resource/dfa83b275b34eea0974a743d0584d993111214b1b72b4895abecff988ac6530a
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)developer-agreement/e029cb76cbe7feac0697ba07b8e2a25b00c05cf3919da4c4f72b4d8670104f17.csv: collection/resource/e029cb76cbe7feac0697ba07b8e2a25b00c05cf3919da4c4f72b4d8670104f17
@@ -435,6 +443,7 @@ DEVELOPER_AGREEMENT_CONTRIBUTION_TRANSFORMED_FILES=\
     $(TRANSFORMED_DIR)developer-agreement-contribution/8425926ad5398d76fb1faf382e72c5ecb7cc41a12e3ab7c11460a8aa2411acdc.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/8f9747e53a2edbc5da5ecd95b90dca06a644a72ea346d12cc690057e79e1caac.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/935583b64cfbe7afded7d700d16afdc2257ba8335806a481e9968ea5a2062f26.csv\
+    $(TRANSFORMED_DIR)developer-agreement-contribution/93d6c56025cb388d1e77bbdfd0237d1ff1a944f9ae976d294870e31d1d32c03a.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/940fa240d3d412ef8aae79a3aeffdb5613b63688b809b8571ccc4038d8ac73db.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/9489fc92f9f0677a101cf9b08306245915c0beb2cebb90f3349a809c6f3435bb.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/985b0cf53b7e9ac7cba0a3df1cccb0d51218cb4c74d859059bc4bcdf9dab6b47.csv\
@@ -449,6 +458,7 @@ DEVELOPER_AGREEMENT_CONTRIBUTION_TRANSFORMED_FILES=\
     $(TRANSFORMED_DIR)developer-agreement-contribution/b72ae6f4449d6d7bcd79d0e938d1600a5b53b8a1414971070d494072eba46824.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/bb7ef28cde4733970cacc1e5a61a65fbcbac7d4a8281ec7acbc38e71438896f4.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/bbf5d1139f1c613cbf2cd053e61fb8cac842c56bab0d8649bc630fe902a4e06a.csv\
+    $(TRANSFORMED_DIR)developer-agreement-contribution/be7c89b6216708311f1c0e697d9122aa5da007cea708c58ff5cbc03c78cb3edc.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/c00186b3bc331dcfdaea2fcae30f437f7cab5bc1de08aa1c95d4ec8b7ee87621.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/c268154f7c5fd0d4158bfd35de69711d257e348414cbf2c0ef88102596ec38ec.csv\
     $(TRANSFORMED_DIR)developer-agreement-contribution/c7410b4b29cf93d8cf44fc553e0e162c5af6afc2610cac9f5633bd7a755012b2.csv\
@@ -614,6 +624,9 @@ $(TRANSFORMED_DIR)developer-agreement-contribution/8f9747e53a2edbc5da5ecd95b90dc
 $(TRANSFORMED_DIR)developer-agreement-contribution/935583b64cfbe7afded7d700d16afdc2257ba8335806a481e9968ea5a2062f26.csv: collection/resource/935583b64cfbe7afded7d700d16afdc2257ba8335806a481e9968ea5a2062f26
 	$(run-pipeline)
 
+$(TRANSFORMED_DIR)developer-agreement-contribution/93d6c56025cb388d1e77bbdfd0237d1ff1a944f9ae976d294870e31d1d32c03a.csv: collection/resource/93d6c56025cb388d1e77bbdfd0237d1ff1a944f9ae976d294870e31d1d32c03a
+	$(run-pipeline)
+
 $(TRANSFORMED_DIR)developer-agreement-contribution/940fa240d3d412ef8aae79a3aeffdb5613b63688b809b8571ccc4038d8ac73db.csv: collection/resource/940fa240d3d412ef8aae79a3aeffdb5613b63688b809b8571ccc4038d8ac73db
 	$(run-pipeline)
 
@@ -654,6 +667,9 @@ $(TRANSFORMED_DIR)developer-agreement-contribution/bb7ef28cde4733970cacc1e5a61a6
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)developer-agreement-contribution/bbf5d1139f1c613cbf2cd053e61fb8cac842c56bab0d8649bc630fe902a4e06a.csv: collection/resource/bbf5d1139f1c613cbf2cd053e61fb8cac842c56bab0d8649bc630fe902a4e06a
+	$(run-pipeline)
+
+$(TRANSFORMED_DIR)developer-agreement-contribution/be7c89b6216708311f1c0e697d9122aa5da007cea708c58ff5cbc03c78cb3edc.csv: collection/resource/be7c89b6216708311f1c0e697d9122aa5da007cea708c58ff5cbc03c78cb3edc
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)developer-agreement-contribution/c00186b3bc331dcfdaea2fcae30f437f7cab5bc1de08aa1c95d4ec8b7ee87621.csv: collection/resource/c00186b3bc331dcfdaea2fcae30f437f7cab5bc1de08aa1c95d4ec8b7ee87621
@@ -755,6 +771,7 @@ DEVELOPER_AGREEMENT_TRANSACTION_TRANSFORMED_FILES=\
     $(TRANSFORMED_DIR)developer-agreement-transaction/2249cfdc7f82639ab82ec43e8602bda1d2c824f7d91a0eb15296ad0b36852d39.csv\
     $(TRANSFORMED_DIR)developer-agreement-transaction/23a6b25c16ca0628675350e6b310d900e1be409aa5547a195309825ec01621f8.csv\
     $(TRANSFORMED_DIR)developer-agreement-transaction/27d3a42411f282c21ba40018426ec2e1d809c471929ed312bb9541dce400b6fb.csv\
+    $(TRANSFORMED_DIR)developer-agreement-transaction/30853e369d87e28a158088a1624dc0cd966aff143e060bea153268ec133e2b56.csv\
     $(TRANSFORMED_DIR)developer-agreement-transaction/32e468e1040d5f67eeddd9e303661546c39dc2d314c92dc4037c450b41719416.csv\
     $(TRANSFORMED_DIR)developer-agreement-transaction/352716a0b6c58e5ed33dd41dd1b452aaa150bcc97f37ccd820b023c84086642f.csv\
     $(TRANSFORMED_DIR)developer-agreement-transaction/3627eee409268e96dde71b17a368f269f6d15b837d5d487febe86716c5cde210.csv\
@@ -851,6 +868,9 @@ $(TRANSFORMED_DIR)developer-agreement-transaction/23a6b25c16ca0628675350e6b310d9
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)developer-agreement-transaction/27d3a42411f282c21ba40018426ec2e1d809c471929ed312bb9541dce400b6fb.csv: collection/resource/27d3a42411f282c21ba40018426ec2e1d809c471929ed312bb9541dce400b6fb
+	$(run-pipeline)
+
+$(TRANSFORMED_DIR)developer-agreement-transaction/30853e369d87e28a158088a1624dc0cd966aff143e060bea153268ec133e2b56.csv: collection/resource/30853e369d87e28a158088a1624dc0cd966aff143e060bea153268ec133e2b56
 	$(run-pipeline)
 
 $(TRANSFORMED_DIR)developer-agreement-transaction/32e468e1040d5f67eeddd9e303661546c39dc2d314c92dc4037c450b41719416.csv: collection/resource/32e468e1040d5f67eeddd9e303661546c39dc2d314c92dc4037c450b41719416
