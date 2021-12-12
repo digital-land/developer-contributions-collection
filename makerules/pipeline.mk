@@ -130,3 +130,6 @@ push-dataset-s3::
 pipeline-run::
 	aws batch submit-job --job-name $(REPOSITORY)-$(shell date '+%Y-%m-%d-%H-%M-%S') --job-queue dl-batch-queue --job-definition dl-batch-def --container-overrides '{"environment": [{"name":"BATCH_FILE_URL","value":"https://raw.githubusercontent.com/digital-land/docker-builds/main/pipeline_run.sh"}, {"name" : "REPOSITORY","value" : "$(REPOSITORY)"}]}'
 
+var/converted/%.csv: collection/resource/%
+	mkdir -p var/converted/
+	digital-land convert $<
