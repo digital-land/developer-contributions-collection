@@ -1,4 +1,4 @@
-pipeline,resource,pattern
+dataset,resource,pattern
 developer-agreement,,"^Developer Agreements,,,,,,,,"
 developer-agreement-contribution,,"^developer agreement contributions,developer agreement contributions,,,,,,,"
 developer-agreement-contribution,,"^Developer Agreement Contribution,,See Page 16 and 17,,,,,"

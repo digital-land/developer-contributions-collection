@@ -1,4 +1,4 @@
-pipeline,resource,organisation,value,entity
+prefix,resource,organisation,reference,entity
 contribution-funding-status,,,secured,16900000
 contribution-funding-status,,,received,16900001
 contribution-funding-status,,,allocated,16900002
