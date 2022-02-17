@@ -6,4 +6,4 @@ developer-agreement-contribution,,"^,From CSV 1,See List,as at 31/03/2020,,today
 developer-agreement,,"^,*[^,]*,*$"
 developer-agreement-contribution,,"^,*[^,]*,*$"
 developer-agreement-transaction,,"^,*[^,]*,*$"
-developer-agreement-contribution,,"^,,,,"2,415,175.15",,111,,,,$"
+developer-agreement-contribution,,"^,,,,""2,415,175.15"",,111,,,,$"
