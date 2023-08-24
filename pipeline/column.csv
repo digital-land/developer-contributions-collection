@@ -34,3 +34,6 @@ developer-agreement-transaction,,units (non-financial contribution ),units
 developer-agreement-transaction,,Created,entry-date
 developer-agreement-transaction,,Start Date,start-date
 developer-agreement-transaction,,End Date,end-date
+contribution-funding-status,,contribution-funding-status,reference
+contribution-purpose,,contribution-purpose,reference
+developer-agreement-type,,developer-agreement-type,reference
