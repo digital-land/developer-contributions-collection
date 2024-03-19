@@ -1,4 +1,4 @@
-# developer-contributions collection ⚠️ Centralised
+# developer-contributions collection
 
 [![License](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/digital-land/developer-contributions/blob/main/LICENSE)
 [![Run pipeline](https://github.com/digital-land/developer-contributions-collection/actions/workflows/run.yml/badge.svg)](https://github.com/digital-land/developer-contributions-collection/actions/workflows/run.yml)
